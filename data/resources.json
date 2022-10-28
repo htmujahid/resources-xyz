@@ -1,0 +1,3477 @@
+{
+    "computer": {
+        "software": {
+            "development": {
+                "languages": [
+                    {
+                        "name": "JavaScript",
+                        "docs": [
+                            "https://javascript.info/",
+                            "https://bonsaiden.github.io/JavaScript-Garden/",
+                            "https://www.learn-js.org/",
+                            "https://javascripttutorial.net",
+                            "https://www.mdn.com/en-US/docs/Web/JavaScript"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=PkZNo7MFNFg",
+                            "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+                            "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+                            "https://www.youtube.com/watch?v=Ukg_U3CnJWI",
+                            "https://www.youtube.com/watch?v=Qqx_wzMmFeA"
+                        ],
+                        "books": [
+                            "https://eloquentjavascript.net/",
+                            "https://www.amazon.com/You-Dont-Know-JS-Book/dp/1491904244",
+                            "https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742",
+                            "https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527",
+                            "https://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X",
+                            "https://www.amazon.com/JavaScript-Design-Patterns-Addy-Osmani/dp/1449331815",
+                            "https://www.amazon.com/JavaScript-Testing-Practical-Developer-Developers/dp/1491950288"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/",
+                            "https://www.udemy.com/course/the-complete-javascript-course/",
+                            "https://www.udemy.com/course/understand-javascript/",
+                            "https://www.udemy.com/course/javascript-es6-tutorial/",
+                            "https://www.udemy.com/course/javascript-advanced/",
+                            "https://www.udemy.com/course/javascript-projects-for-beginners/",
+                            "https://www.udemy.com/course/javascript-projects/"
+                        ],
+                        "usage": [
+                            "web",
+                            "desktop",
+                            "mobile",
+                            "server",
+                            "database",
+                            "iot",
+                            "machine learning",
+                            "artificial intelligence"
+                        ]
+                    },
+                    {
+                        "name": "Python",
+                        "docs": [
+                            "https://www.python.org/doc/",
+                            "https://docs.python.org/"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=rfscVS0vtbw",
+                            "https://www.youtube.com/watch?v=YYXdXT2l-Gg"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593279280",
+                            "https://www.amazon.com/Python-Cookbook-3e-David-Beazley/dp/1449340377",
+                            "https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662",
+                            "https://www.amazon.com/Python-Data-Science-Essential-Techniques/dp/1491912057",
+                            "https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/python-for-beginners-complete-course/",
+                            "https://www.udemy.com/course/python-the-complete-python-developer-course/",
+                            "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/"
+                        ],
+                        "usage": [
+                            "web",
+                            "desktop",
+                            "mobile",
+                            "server",
+                            "database",
+                            "iot",
+                            "machine learning",
+                            "artificial intelligence",
+                            "data science"
+                        ]
+                    },
+                    {
+                        "name": "Java",
+                        "docs": [
+                            "https://docs.oracle.com/en/java/javase/11/",
+                            "https://docs.oracle.com/javase/8/docs/api/"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=eIrMbAQSU34",
+                            "https://www.youtube.com/watch?v=grEKMHGYyns",
+                            "https://www.youtube.com/watch?v=Qqx_wzMmFeA",
+                            "https://www.youtube.com/watch?v=Ukg_U3CnJWI",
+                            "https://www.youtube.com/watch?v=hdI2bqOjy3c"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Java-Programming-Comprehensive-Introduction-Programmers/dp/0133761319"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/java-tutorial/",
+                            "https://www.udemy.com/course/java-the-complete-java-developer-course/",
+                            "https://www.udemy.com/course/java-tutorial-for-beginners/",
+                            "https://www.udemy.com/course/java-programming-tutorial-for-beginners/",
+                            "https://www.udemy.com/course/java-tutorial-for-complete-beginners/"
+                        ],
+                        "usage": [
+                            "web",
+                            "desktop",
+                            "mobile",
+                            "server",
+                            "database",
+                            "iot"
+                        ]
+                    },
+                    {
+                        "name": "C",
+                        "docs": [
+                            "https://www.cprogramming.com/",
+                            "https://www.cppreference.com/w/c"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=KJgsSFOSQv0",
+                            "https://www.youtube.com/watch?v=de2Hsvxaf8M",
+                            "https://www.youtube.com/watch?v=Rub-JsjMhWY",
+                            "https://www.youtube.com/watch?v=8hly31xKli0"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628",
+                            "https://www.amazon.com/How-Program-11th-Paul-Deitel/dp/0134743350"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/c-programming-for-beginners/",
+                            "https://www.udemy.com/course/c-programming-language/",
+                            "https://www.udemy.com/course/c-programming-for-beginners-ultimate/"
+                        ],
+                        "usage": [
+                            "os",
+                            "embedded",
+                            "iot",
+                            "compiler"
+                        ]
+                    },
+                    {
+                        "name": "PHP",
+                        "docs": [
+                            "https://www.php.net/manual/en/"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=OK_JCtrrv-c"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/PHP-MySQL-Web-Development-4th/dp/0672329163"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/",
+                            "https://www.udemy.com/course/php-mysql-tutorial/",
+                            "https://www.udemy.com/course/php-mysql/"
+                        ],
+                        "usage": [
+                            "web"
+                        ]
+                    },
+                    {
+                        "name": "C++",
+                        "docs": [
+                            "https://www.cprogramming.com/",
+                            "https://www.cppreference.com/w/cpp",
+                            "https://www.cplusplus.com/"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=vLnPwxZdW4Y",
+                            "https://www.youtube.com/watch?v=Rub-JsjMhWY",
+                            "https://www.youtube.com/watch?v=8hly31xKli0",
+                            "https://www.youtube.com/watch?v=8hly31xKli0"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628",
+                            "https://www.amazon.com/How-Program-11th-Paul-Deitel/dp/0134743350",
+                            "https://www.amazon.com/Programming-Principles-Practice-Using-C/dp/0321992784"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/c-plus-plus-tutorial/",
+                            "https://www.udemy.com/course/c-plus-plus-tutorial-for-beginners/",
+                            "https://www.udemy.com/course/c-plus-plus-tutorial-for-beginners-ultimate/",
+                            "https://www.udemy.com/course/c-plus-plus-advanced/"
+                        ],
+                        "usage": [
+                            "os",
+                            "embedded",
+                            "iot",
+                            "compiler",
+                            "desktop",
+                            "mobile",
+                            "database"
+                        ]
+                    },
+                    {
+                        "name": "Ruby",
+                        "docs": [
+                            "https://www.ruby-lang.org/en/documentation/"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=t_ispmWmdjY",
+                            "https://www.youtube.com/watch?v=2ZzC3Y1vL-w"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Programming-Ruby-1-9-2-0-0/dp/1937785491"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/ruby-on-rails-5x/"
+                        ],
+                        "usage": [
+                            "web"
+                        ]
+                    },
+                    {
+                        "name": "Go",
+                        "docs": [
+                            "https://golang.org/doc/"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=YS4e4q9oBaU",
+                            "https://www.youtube.com/watch?v=CF9S4QZuV30"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/go-the-complete-developers-guide/",
+                            "https://www.udemy.com/course/go-programming-language/",
+                            "https://www.udemy.com/course/go-programming-language-complete/",
+                            "https://www.udemy.com/course/go-programming-language-complete-bootcamp/"
+                        ],
+                        "usage": [
+                            "os",
+                            "embedded",
+                            "iot",
+                            "compiler",
+                            "web",
+                            "database"
+                        ]
+                    },
+                    {
+                        "name": "C#",
+                        "docs": [
+                            "https://docs.microsoft.com/en-us/dotnet/csharp/"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=GhQdlIFylQ8"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Programming-C-8-0-Jesse-liberty/dp/1119390780"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/csharp-tutorial-for-beginners/",
+                            "https://www.udemy.com/course/csharp-tutorial-for-beginners-ultimate/",
+                            "https://www.udemy.com/course/csharp-advanced/"
+                        ],
+                        "usage": [
+                            "web",
+                            "desktop",
+                            "mobile",
+                            "database"
+                        ]
+                    },
+                    {
+                        "name": "Perl",
+                        "docs": [
+                            "https://www.perl.org/"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=1qX0QX4xkvc"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Programming-Perl-4th-Larry-Wall/dp/0596000278",
+                            "https://www.amazon.com/Perl-5-Reference-Manual-Programming/dp/0596002704"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/perl-programming/"
+                        ],
+                        "usage": [
+                            "os",
+                            "embedded",
+                            "iot",
+                            "compiler"
+                        ]
+                    },
+                    {
+                        "name": "Swift",
+                        "docs": [
+                            "https://docs.swift.org/swift-book/"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=2N3mKl5v5dM"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Swift-Programming-Learning-Playgrounds-2nd/dp/0135231364",
+                            "https://www.amazon.com/Swift-Programming-Language-Apple-Developers/dp/1941222579"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/ios-13-app-development-bootcamp/"
+                        ],
+                        "usage": [
+                            "ios"
+                        ]
+                    },
+                    {
+                        "name": "Rust",
+                        "docs": [
+                            "https://doc.rust-lang.org/book/"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=3CwJcdD6b48"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Programming-Rust-Fast-Safe-Systems/dp/1491927282",
+                            "https://www.amazon.com/Rust-Programming-Language-Steve-Klabnik/dp/1593278284"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/rust-programming/",
+                            "https://www.udemy.com/course/rust-programming-language/",
+                            "https://www.udemy.com/course/rust-programming-language-complete/"
+                        ],
+                        "usage": [
+                            "os",
+                            "embedded"
+                        ]
+                    },
+                    {
+                        "name": "TypeScript",
+                        "docs": [
+                            "https://www.typescriptlang.org/docs/"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=BwuLxPH8IDs",
+                            "https://www.youtube.com/watch?v=WBPrJSw7yQA"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/TypeScript-Deep-Dive-Programming-Language/dp/1492037656",
+                            "https://www.amazon.com/TypeScript-Programming-Microsoft-Development-Library/dp/1509302929"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/typescript-the-complete-developers-guide/"
+                        ],
+                        "usage": [
+                            "web",
+                            "desktop",
+                            "mobile"
+                        ]
+                    },
+                    {
+                        "name": "Kotlin",
+                        "docs": [
+                            "https://kotlinlang.org/docs/reference/"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=F9UC9DY-vIU",
+                            "https://www.youtube.com/watch?v=H_oGi8uuDpA"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Kotlin-Programming-Language-Developers-Library/dp/1491977077",
+                            "https://www.amazon.com/Kotlin-Programming-Developers-Introduction-Android/dp/1788478297"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/kotlin-bootcamp-for-programmers/",
+                            "https://www.udemy.com/course/kotlin-for-android-developers/"
+                        ],
+                        "usage": [
+                            "android"
+                        ]
+                    },
+                    {
+                        "name": "Objective-C",
+                        "docs": [
+                            "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=0p4s8GMmNeE"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Programming-iOS-11-Fundamentals-Swift/dp/1491976236",
+                            "https://www.amazon.com/Programming-iOS-12-Fundamentals-Swift/dp/1492041947"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/ios-13-app-development-bootcamp/"
+                        ],
+                        "usaeg": [
+                            "ios"
+                        ]
+                    },
+                    {
+                        "name": "VBA",
+                        "docs": [],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=ZQZ1J8ZyX5s"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Excel-VBA-Programming-Dummies-Computer/dp/1119291354",
+                            "https://www.amazon.com/Excel-VBA-Programming-For-Dummies/dp/1119291354"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/vba-macros/",
+                            "https://www.udemy.com/course/vba-macros-for-beginners/"
+                        ],
+                        "usaeg": [
+                            "office"
+                        ]
+                    },
+                    {
+                        "name": "R",
+                        "docs": [
+                            "https://www.r-project.org/other-docs.html"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=_V8eKsto3Ug",
+                            "https://www.youtube.com/watch?v=JxHqYkHZq0Q"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Programming-R-Statistics-Computing-Statistics/dp/0387981403",
+                            "https://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/r-programming/",
+                            "https://www.udemy.com/course/r-programming-advanced/"
+                        ],
+                        "usaeg": [
+                            "data science"
+                        ]
+                    },
+                    {
+                        "name": "Dart",
+                        "docs": [
+                            "https://dart.dev/guides",
+                            "https://dart.dev/tutorials"
+                        ],
+                        "videos": [
+                            "https://www.youtube.com/watch?v=Ej_Pcr4uC2Q",
+                            "https://www.youtube.com/watch?v=KJgsSFOSQv0",
+                            "https://www.youtube.com/watch?v=de2Hsvxaf8M",
+                            "https://www.youtube.com/watch?v=Rub-JsjMhWY",
+                            "https://www.youtube.com/watch?v=8hly31xKli0"
+                        ],
+                        "books": [
+                            "https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628",
+                            "https://www.amazon.com/How-Program-11th-Paul-Deitel/dp/0134743350"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/c-programming-for-beginners/",
+                            "https://www.udemy.com/course/c-programming-language/",
+                            "https://www.udemy.com/course/c-programming-for-beginners-ultimate/"
+                        ],
+                        "usage": [
+                            "web",
+                            "mobile",
+                            "desktop"
+                        ]
+                    },
+                    {
+                        "docs": [
+                            {
+                                "name": "DevDocs",
+                                "url": "https://devdocs.io/"
+                            }
+                        ]
+                    }
+                ],
+                "platforms": [
+                    {
+                        "name": "nodejs",
+                        "url": "https://nodejs.org/en/",
+                        "docs": [
+                            "https://nodejs.org/api/"
+                        ],
+                        "packageManagers": [
+                            {
+                                "name": "npm",
+                                "url": "https://www.npmjs.com/"
+                            },
+                            {
+                                "name": "yarn",
+                                "url": "https://yarnpkg.com/"
+                            }
+                        ],
+                        "packages": [
+                            {
+                                "name": "Express",
+                                "url": "https://expressjs.com/"
+                            },
+                            {
+                                "name": "Async",
+                                "url": "https://caolan.github.io/async/"
+                            },
+                            {
+                                "name": "Lodash",
+                                "url": "https://lodash.com/"
+                            },
+                            {
+                                "name": "Moment",
+                                "url": "https://momentjs.com/"
+                            },
+                            {
+                                "name": "Cloudinary",
+                                "url": "https://cloudinary.com/"
+                            },
+                            {
+                                "name": "Axios",
+                                "url": "https://github.com/axios/axios"
+                            },
+                            {
+                                "name": "Karma",
+                                "url": "https://github.com/karma-runner/karma"
+                            },
+                            {
+                                "name": "Moleculer",
+                                "url": "https://moleculer.services/"
+                            },
+                            {
+                                "name": "Grunt",
+                                "url": "https://gruntjs.com/"
+                            },
+                            {
+                                "name": "Mocha",
+                                "url": "https://mochajs.org/"
+                            }
+                        ]
+                    }
+                ],
+                "web": {
+                    "frontend": {
+                        "languages": [
+                            {
+                                "name": "HTML",
+                                "history": [
+                                    {
+                                        "name": "HTML 1.0",
+                                        "year": 1993
+                                    },
+                                    {
+                                        "name": "HTML 2.0",
+                                        "year": 1995
+                                    },
+                                    {
+                                        "name": "HTML 3.2",
+                                        "year": 1997
+                                    },
+                                    {
+                                        "name": "HTML 4.01",
+                                        "year": 1999
+                                    },
+                                    {
+                                        "name": "HTML 5",
+                                        "year": 2014
+                                    }
+                                ],
+                                "docs": [
+                                    "https://developer.mozilla.org/en-US/docs/Web/HTML",
+                                    "https://htmldog.com/guides/html/",
+                                    "https://htmlreference.io/",
+                                    "https://htmlcheatsheet.com/"
+                                ]
+                            },
+                            {
+                                "name": "CSS",
+                                "docs": [
+                                    "https://developer.mozilla.org/en-US/docs/Web/CSS",
+                                    "https://htmldog.com/guides/css/",
+                                    "https://cssreference.io/",
+                                    "https://htmlcheatsheet.com/css/"
+                                ],
+                                "topics": {
+                                    "flex": {
+                                        "docs": [
+                                            "https://flexbox.malven.co/"
+                                        ]
+                                    },
+                                    "grid": {
+                                        "docs": [
+                                            "https://grid.malven.co/"
+                                        ]
+                                    }
+                                },
+                                "preProcessors": [
+                                    {
+                                        "name": "Sass",
+                                        "url": "https://sass-lang.com/"
+                                    },
+                                    {
+                                        "name": "Less",
+                                        "url": "http://lesscss.org/"
+                                    },
+                                    {
+                                        "name": "Stylus",
+                                        "url": "https://stylus-lang.com/"
+                                    }
+                                ],
+                                "frameworks": [
+                                    {
+                                        "name": "Bootstrap",
+                                        "url": "https://getbootstrap.com/"
+                                    },
+                                    {
+                                        "name": "Materialize",
+                                        "url": "https://materializecss.com/"
+                                    },
+                                    {
+                                        "name": "Bulma",
+                                        "url": "https://bulma.io/"
+                                    },
+                                    {
+                                        "name": "Tailwind",
+                                        "url": "https://tailwindcss.com/"
+                                    },
+                                    {
+                                        "name": "Foundation",
+                                        "url": "https://get.foundation/"
+                                    },
+                                    {
+                                        "name": "Semantic UI",
+                                        "url": "https://semantic-ui.com/"
+                                    },
+                                    {
+                                        "name": "UIKit",
+                                        "url": "https://getuikit.com/"
+                                    },
+                                    {
+                                        "name": "Pure",
+                                        "url": "https://purecss.io/"
+                                    },
+                                    {
+                                        "name": "Milligram",
+                                        "url": "https://milligram.io/"
+                                    },
+                                    {
+                                        "name": "Skeleton",
+                                        "url": "http://getskeleton.com/"
+                                    },
+                                    {
+                                        "name": "Chota",
+                                        "url": "https://jenil.github.io/chota/"
+                                    },
+                                    {
+                                        "name": "Shoelace",
+                                        "url": "https://shoelace.style/"
+                                    },
+                                    {
+                                        "name": "Tachyons",
+                                        "url": "https://tachyons.io/"
+                                    },
+                                    {
+                                        "name": "Basscss",
+                                        "url": "https://basscss.com/"
+                                    },
+                                    {
+                                        "name": "Picnic",
+                                        "url": "https://picnicss.com/"
+                                    }
+                                ],
+                                "generators": [
+                                    {
+                                        "name": "Buttons Generators",
+                                        "url": "https://markodenic.com/tools/buttons-generator/"
+                                    },
+                                    {
+                                        "name": "Neumorphism",
+                                        "url": "https://neumorphism.io/"
+                                    },
+                                    {
+                                        "name": "CSS Grid Generator",
+                                        "url": "https://cssgrid-generator.netlify.app/"
+                                    },
+                                    {
+                                        "name": "Gatewaves",
+                                        "url": "https://getwaves.io/"
+                                    },
+                                    {
+                                        "name": "FANCY-BORDER-RADIUS",
+                                        "url": "https://9elements.github.io/fancy-border-radius/"
+                                    },
+                                    {
+                                        "name": "css.glass",
+                                        "url": "https://css.glass/"
+                                    },
+                                    {
+                                        "name": "Shadow Palette",
+                                        "url": "https://www.joshwcomeau.com/shadow-palette/"
+                                    },
+                                    {
+                                        "name": "Animista",
+                                        "url": "https://animista.net/"
+                                    },
+                                    {
+                                        "name": "Keyframes",
+                                        "url": "https://keyframes.app/"
+                                    },
+                                    {
+                                        "name": "Gradient Buttons",
+                                        "url": "https://gradientbuttons.colorion.co/"
+                                    },
+                                    {
+                                        "name": "CSS Flex Container",
+                                        "url": "https://cssflex-generator.netlify.app/"
+                                    },
+                                    {
+                                        "name": "Naming Classes",
+                                        "url": "https://9elements.com/bem-cheat-sheet/"
+                                    },
+                                    {
+                                        "name": "Clip Path Generator",
+                                        "url": "https://bennettfeely.com/clippy/"
+                                    },
+                                    {
+                                        "name": "webcode.tools",
+                                        "url": "https://webcode.tools/"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Javascript",
+                                "docs": [
+                                    "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model",
+                                    "https://javascript.info/ui"
+                                ],
+                                "libraries": [
+                                    {
+                                        "name": "hammerjs",
+                                        "url": "https://github.com/hammerjs/hammer.js"
+                                    },
+                                    {
+                                        "name": "lodash",
+                                        "url": "https://github.com/lodash/lodash"
+                                    },
+                                    {
+                                        "name": "animejs",
+                                        "url": "https://github.com/juliangarnier/anime/"
+                                    },
+                                    {
+                                        "name": "chartjs",
+                                        "url": "https://github.com/chartjs/Chart.js"
+                                    },
+                                    {
+                                        "name": "pixijs",
+                                        "url": "https://github.com/pixijs/pixijs"
+                                    },
+                                    {
+                                        "name": "date-fns",
+                                        "url": "https://github.com/date-fns/date-fns"
+                                    },
+                                    {
+                                        "name": "mathjs",
+                                        "url": "https://github.com/josdejong/mathjs"
+                                    },
+                                    {
+                                        "name": "faker",
+                                        "url": "https://github.com/faker-js/faker`"
+                                    }
+                                ],
+                                "ajax": {
+                                    "libraries": [
+                                        {
+                                            "name": "axios",
+                                            "github": "https://github.com/axios/axios"
+                                        },
+                                        {
+                                            "name": "fetch",
+                                            "github": "https://github.com/github/fetch"
+                                        },
+                                        {
+                                            "name": "superagent",
+                                            "github": "https://github.com/visionmedia/superagent"
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "libraries": [
+                            {
+                                "name": "React",
+                                "web": "https://reactjs.org/",
+                                "docs": "https://reactjs.org/docs/getting-started.html",
+                                "UIKits": [
+                                    {
+                                        "name": "Material UI",
+                                        "url": "https://mui.com"
+                                    },
+                                    {
+                                        "name": "Ant Design",
+                                        "url": "https://ant.design"
+                                    },
+                                    {
+                                        "name": "React Bootstrap",
+                                        "url": "https://react-bootstrap.github.io"
+                                    },
+                                    {
+                                        "name": "React Toolbox",
+                                        "url": "https://react-toolbox.io"
+                                    },
+                                    {
+                                        "name": "React Semantic UI",
+                                        "url": "https://react.semantic-ui.com"
+                                    },
+                                    {
+                                        "name": "React MD",
+                                        "url": "https://react-md.dev"
+                                    },
+                                    {
+                                        "name": "Reactstrap",
+                                        "url": "https://reactstrap.github.io"
+                                    }
+                                ],
+                                "frameworks": [
+                                    {
+                                        "name": "Gatsby",
+                                        "url": "https://www.gatsbyjs.org/"
+                                    },
+                                    {
+                                        "name": "Next.js",
+                                        "url": "https://nextjs.org/"
+                                    },
+                                    {
+                                        "name": "Docusaurus",
+                                        "url": "https://docusaurus.io/"
+                                    },
+                                    {
+                                        "name": "Docz",
+                                        "url": "https://www.docz.site/"
+                                    }
+                                ]
+                            }
+                        ],
+                        "frameworks": [
+                            {
+                                "name": "Vue",
+                                "web": "https://vuejs.org/",
+                                "docs": "https://v3.vuejs.org/guide/introduction.html",
+                                "UIKits": [
+                                    {
+                                        "name": "varnish",
+                                        "url": "https://github.com/caneara/varnish"
+                                    }
+                                ],
+                                "frameworks": [
+                                    {
+                                        "name": "Gridsome",
+                                        "url": "https://gridsome.org/"
+                                    },
+                                    {
+                                        "name": "VuePress",
+                                        "url": "https://vuepress.vuejs.org/"
+                                    },
+                                    {
+                                        "name": "Nuxt.js",
+                                        "url": "https://nuxtjs.org/"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Angular",
+                                "web": "https://angular.io/",
+                                "docs": "https://angular.io/docs",
+                                "frameworks": [
+                                    {
+                                        "name": "Angular Material",
+                                        "url": "https://material.angular.io/"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Svelte",
+                                "web": "https://svelte.dev/",
+                                "docs": "https://svelte.dev/tutorial/basics",
+                                "frameworks": [
+                                    {
+                                        "name": "Sapper",
+                                        "url": "https://sapper.svelte.dev/"
+                                    },
+                                    {
+                                        "name": "SvelteKit",
+                                        "url": "https://kit.svelte.dev/"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Ember",
+                                "web": "https://emberjs.com/",
+                                "docs": "https://guides.emberjs.com/release/"
+                            },
+                            {
+                                "name": "Blazor",
+                                "web": "https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor",
+                                "docs": "https://learn.microsoft.com/en-us/aspnet/core/blazor"
+                            },
+                            {
+                                "name": "Flutter",
+                                "web": "https://flutter.dev/multi-platform/web",
+                                "docs": "https://docs.flutter.dev"
+                            }
+                        ],
+                        "staticSiteGenerator": [
+                            {
+                                "name": "Jekyll",
+                                "url": "https://jekyllrb.com/",
+                                "technology": "ruby"
+                            },
+                            {
+                                "name": "Hugo",
+                                "url": "https://gohugo.io/",
+                                "technology": "Go"
+                            },
+                            {
+                                "name": "Hexo",
+                                "url": "https://hexo.io/",
+                                "technology": "Node"
+                            },
+                            {
+                                "name": "Eleventy",
+                                "url": "https://www.11ty.dev/",
+                                "technology": "Node"
+                            },
+                            {
+                                "name": "GitBook",
+                                "url": "https://www.gitbook.com/",
+                                "technology": "Node"
+                            },
+                            {
+                                "name": "Metalsmith",
+                                "url": "https://metalsmith.io/",
+                                "technology": "Node"
+                            },
+                            {
+                                "name": "Middleman",
+                                "url": "https://middlemanapp.com/",
+                                "technology": "Ruby"
+                            },
+                            {
+                                "name": "Nanoc",
+                                "url": "https://nanoc.ws/",
+                                "technology": "Ruby"
+                            }
+                        ],
+                        "challenges": [
+                            {
+                                "url": "https://www.frontendmentor.io/"
+                            },
+                            {
+                                "url": "http://100dayscss.com"
+                            },
+                            {
+                                "url": "https://www.codewars.com/"
+                            },
+                            {
+                                "url": "https://codier.io/"
+                            },
+                            {
+                                "url": "https://cssbattle.dev/"
+                            }
+                        ],
+                        "accessiblityTools": [
+                            "https://a11ygator.chialab.io/",
+                            "https://accessibilityinsights.io/",
+                            "https://toolness.github.io/accessible-color-matrix/",
+                            "https://achecker.ca/",
+                            "https://www.ssa.gov/accessibility/andi/help/install.html",
+                            "https://www.deque.com/axe/"
+                        ]
+                    },
+                    "backend": {
+                        "frameworks": [
+                            {
+                                "name": "Laravel",
+                                "web": "https://laravel.com/",
+                                "docs": "https://laravel.com/docs/",
+                                "language": "PHP"
+                            },
+                            {
+                                "name": "Symfony",
+                                "web": "https://symfony.com/",
+                                "docs": "https://symfony.com/doc/current/index.html",
+                                "language": "PHP"
+                            },
+                            {
+                                "name": "CodeIgniter",
+                                "web": "https://codeigniter.com/",
+                                "docs": "https://codeigniter.com/user_guide/index.html",
+                                "language": "PHP"
+                            },
+                            {
+                                "name": "CakePHP",
+                                "web": "https://cakephp.org/",
+                                "docs": "https://book.cakephp.org/4/en/",
+                                "language": "PHP"
+                            },
+                            {
+                                "name": "Yii",
+                                "web": "https://www.yiiframework.com/",
+                                "docs": "https://www.yiiframework.com/doc/guide/2.0/en",
+                                "language": "PHP"
+                            },
+                            {
+                                "name": "ASP.NET",
+                                "web": "https://dotnet.microsoft.com/en-us/apps/aspnet",
+                                "docs": "https://learn.microsoft.com/en-us/aspnet/core/",
+                                "lanugage": "C#"
+                            },
+                            {
+                                "name": "ExpressJS",
+                                "web": "http://expressjs.com/",
+                                "docs": "http://expressjs.com/en/4x/api.html",
+                                "language": "JS"
+                            },
+                            {
+                                "name": "Spring Boot",
+                                "web": "https://spring.io/",
+                                "docs": "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/",
+                                "language": "java"
+                            },
+                            {
+                                "name": "Django",
+                                "web": "https://www.djangoproject.com/",
+                                "docs": "https://docs.djangoproject.com/en/",
+                                "language": "python"
+                            },
+                            {
+                                "name": "Flask",
+                                "web": "https://flask.palletsprojects.com/en/2.2.x/quickstart/",
+                                "docs": "https://flask.palletsprojects.com/en/2.2.x/",
+                                "language": "python"
+                            },
+                            {
+                                "name": "Ruby on Rails",
+                                "web": "https://rubyonrails.org/",
+                                "docs": "https://guides.rubyonrails.org/",
+                                "language": "ruby"
+                            },
+                            {
+                                "name": "Fiber",
+                                "web": "https://gofiber.io/",
+                                "docs": "https://docs.gofiber.io/",
+                                "language": "go"
+                            },
+                            {
+                                "name": "Play",
+                                "web": "https://www.playframework.com/",
+                                "docs": "https://www.playframework.com/documentation",
+                                "language": "scala"
+                            },
+                            {
+                                "name": "Deno",
+                                "web": "https://deno.land/",
+                                "docs": "https://deno.land/manual",
+                                "language": "javascript"
+                            }
+                        ],
+                        "headlessCMS": [
+                            {
+                                "name": "strapi",
+                                "web": "https://strapi.io/",
+                                "docs": "https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html",
+                                "language": "javascript"
+                            },
+                            {
+                                "name": "ghost",
+                                "web": "https://ghost.org/",
+                                "docs": "https://ghost.org/docs/",
+                                "language": "javascript"
+                            },
+                            {
+                                "name": "contentful",
+                                "web": "https://www.contentful.com/",
+                                "docs": "https://www.contentful.com/developers/docs/",
+                                "language": "javascript"
+                            },
+                            {
+                                "name": "sanity",
+                                "web": "https://www.sanity.io/",
+                                "docs": "https://www.sanity.io/docs",
+                                "language": "javascript"
+                            },
+                            {
+                                "name": "prismic",
+                                "web": "https://prismic.io/",
+                                "docs": "https://prismic.io/docs",
+                                "language": "javascript"
+                            },
+                            {
+                                "name": "datoCMS",
+                                "web": "https://www.datocms.com/",
+                                "docs": "https://www.datocms.com/docs",
+                                "language": "javascript"
+                            },
+                            {
+                                "name": "netlifyCMS",
+                                "web": "https://www.netlifycms.org/",
+                                "docs": "https://www.netlifycms.org/docs/",
+                                "language": "javascript"
+                            },
+                            {
+                                "name": "forestry",
+                                "web": "https://forestry.io/",
+                                "docs": "https://forestry.io/docs/",
+                                "language": "javascript"
+                            },
+                            {
+                                "name": "graphCMS",
+                                "web": "https://graphcms.com/",
+                                "docs": "https://graphcms.com/docs/",
+                                "language": "javascript"
+                            }
+                        ],
+                        "api": [
+                            {
+                                "name": "Unsplash",
+                                "url": "https://unsplash.com/developers"
+                            },
+                            {
+                                "name": "Nasa",
+                                "url": "https://api.nasa.gov/"
+                            },
+                            {
+                                "name": "Openweathermap",
+                                "url": "https://openweathermap.org/api"
+                            },
+                            {
+                                "name": "The Movie DB",
+                                "url": "https://themoviedb.org/"
+                            },
+                            {
+                                "name": "Opensea",
+                                "url": "https://docs.opensea.io/reference/api-overview"
+                            },
+                            {
+                                "name": "Fake Store Api",
+                                "url": "http://fakestoreapi.com/"
+                            },
+                            {
+                                "name": "JSON Placeholder",
+                                "url": "http://jsonplaceholder.typicode.com/"
+                            },
+                            {
+                                "name": "Swapi",
+                                "url": "https://swapi.dev/"
+                            }
+                        ]
+                    },
+                    "all": {
+                        "docs": [
+                            "https://www.internetingishard.com/"
+                        ],
+                        "web": [
+                            "https://www.caniuse.com/",
+                            "https://web.dev/"
+                        ]
+                    }
+                },
+                "mobile": {
+                    "native": [
+                        {
+                            "name": "Swift",
+                            "web": "https://swift.org/",
+                            "docs": "https://docs.swift.org/swift-book/"
+                        },
+                        {
+                            "name": "Objective-C",
+                            "web": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html",
+                            "docs": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"
+                        },
+                        {
+                            "name": "Kotlin",
+                            "web": "https://kotlinlang.org/",
+                            "docs": "https://kotlinlang.org/docs/home.html"
+                        },
+                        {
+                            "name": "Java",
+                            "web": "https://www.java.com/en/",
+                            "docs": "https://docs.oracle.com/javase/8/docs/api/"
+                        }
+                    ],
+                    "crossPlatform": [
+                        {
+                            "name": "React Native",
+                            "web": "https://reactnative.dev/",
+                            "docs": "https://reactnative.dev/docs/getting-started"
+                        },
+                        {
+                            "name": "NativeScript",
+                            "web": "https://nativescript.org/",
+                            "docs": "https://docs.nativescript.org/"
+                        },
+                        {
+                            "name": "Vue Native",
+                            "web": "https://vue-native.io/",
+                            "docs": "https://vue-native.io/docs/"
+                        },
+                        {
+                            "name": "Xamarin",
+                            "web": "https://dotnet.microsoft.com/apps/xamarin",
+                            "docs": "https://docs.microsoft.com/en-us/xamarin/"
+                        },
+                        {
+                            "name": "Flutter",
+                            "web": "https://flutter.dev/multi-platform/mobile",
+                            "docs": "https://docs.flutter.dev"
+                        }
+                    ]
+                },
+                "desktop": {
+                    "frameworks": [
+                        {
+                            "name": "Electron",
+                            "web": "https://www.electronjs.org/",
+                            "docs": "https://www.electronjs.org/docs",
+                            "os": [
+                                "windows",
+                                "macos",
+                                "linux"
+                            ]
+                        },
+                        {
+                            "name": "Swing",
+                            "web": "https://docs.oracle.com/javase/tutorial/uiswing/",
+                            "docs": "https://docs.oracle.com/javase/tutorial/uiswing/",
+                            "os": [
+                                "windows",
+                                "macos",
+                                "linux"
+                            ]
+                        },
+                        {
+                            "name": "Qt",
+                            "web": "https://www.qt.io/",
+                            "docs": "https://doc.qt.io/qt-5/",
+                            "os": [
+                                "windows",
+                                "macos",
+                                "linux"
+                            ]
+                        },
+                        {
+                            "name": "wxWidgets",
+                            "web": "https://www.wxwidgets.org/",
+                            "docs": "https://docs.wxwidgets.org/3.1/",
+                            "os": [
+                                "windows",
+                                "macos",
+                                "linux"
+                            ]
+                        },
+                        {
+                            "name": "JavaFX",
+                            "web": "https://openjfx.io/",
+                            "docs": "https://openjfx.io/javadoc/11/",
+                            "os": [
+                                "windows",
+                                "macos",
+                                "linux"
+                            ]
+                        },
+                        {
+                            "name": "Tkinter",
+                            "web": "https://docs.python.org/3/library/tkinter.html",
+                            "docs": "https://docs.python.org/3/library/tkinter.html",
+                            "os": [
+                                "windows",
+                                "macos",
+                                "linux"
+                            ]
+                        },
+                        {
+                            "name": "PyQT",
+                            "web": "https://riverbankcomputing.com/software/pyqt/",
+                            "docs": "https://riverbankcomputing.com/software/pyqt/intro",
+                            "os": [
+                                "windows",
+                                "macos",
+                                "linux"
+                            ]
+                        },
+                        {
+                            "name": "flutter",
+                            "web": "https://flutter.dev/multi-platform/desktop",
+                            "docs": "https://docs.flutter.dev",
+                            "os": [
+                                "windows",
+                                "macos",
+                                "linux"
+                            ]
+                        },
+                        {
+                            "name": "GTK",
+                            "web": "https://www.gtk.org/",
+                            "docs": "https://developer.gnome.org/gtk3/stable/",
+                            "os": [
+                                "windows",
+                                "macos",
+                                "linux"
+                            ]
+                        },
+                        {
+                            "name": "MAUI",
+                            "web": "https://dotnet.microsoft.com/en-us/apps/desktop",
+                            "docs": "https://learn.microsoft.com/en-us/dotnet/maui/",
+                            "os": [
+                                "windows",
+                                "macos",
+                                "linux"
+                            ]
+                        }
+                    ]
+                },
+                "noCode": {
+                    "web": [
+                        {
+                            "name": "Webflow",
+                            "url": "https://webflow.com/"
+                        },
+                        {
+                            "name": "Wix",
+                            "url": "https://www.wix.com/"
+                        },
+                        {
+                            "name": "Squarespace",
+                            "url": "https://www.squarespace.com/"
+                        },
+                        {
+                            "name": "Weebly",
+                            "url": "https://www.weebly.com/"
+                        },
+                        {
+                            "name": "Shopify",
+                            "url": "https://www.shopify.com/"
+                        },
+                        {
+                            "name": "Duda",
+                            "url": "https://www.duda.co/"
+                        },
+                        {
+                            "name": "Strikingly",
+                            "url": "https://www.strikingly.com/"
+                        },
+                        {
+                            "name": "Webnode",
+                            "url": "https://www.webnode.com/"
+                        },
+                        {
+                            "name": "Jimdo",
+                            "url": "https://www.jimdo.com/"
+                        },
+                        {
+                            "name": "Web.com",
+                            "url": "https://www.web.com/"
+                        }
+                    ],
+                    "mobile": [
+                        {
+                            "name": "Appy Pie",
+                            "url": "https://www.appypie.com/"
+                        },
+                        {
+                            "name": "JotForm",
+                            "url": "https://www.jotform.com/"
+                        },
+                        {
+                            "name": "AppMachine",
+                            "url": "https://www.appmachine.com/"
+                        },
+                        {
+                            "name": "Thunkable",
+                            "url": "https://thunkable.com/"
+                        },
+                        {
+                            "name": "AppGyver",
+                            "url": "https://www.appgyver.com/"
+                        },
+                        {
+                            "name": "Andromo",
+                            "url": "https://www.andromo.com/"
+                        },
+                        {
+                            "name": "Adalo",
+                            "url": "https://www.adalo.com/"
+                        },
+                        {
+                            "name": "ServiceNow",
+                            "url": "https://www.servicenow.com/"
+                        },
+                        {
+                            "name": "Airtable",
+                            "url": "https://airtable.com/"
+                        }
+                    ]
+                },
+                "databases": {
+                    "sql": [
+                        {
+                            "name": "MongoDB",
+                            "web": "https://www.mongodb.com/"
+                        },
+                        {
+                            "name": "Firebase",
+                            "web": "https://firebase.google.com/"
+                        },
+                        {
+                            "name": "Redis",
+                            "web": "https://redis.io/"
+                        }
+                    ],
+                    "noSql": [
+                        {
+                            "name": "MySQL",
+                            "web": "https://www.mysql.com/"
+                        },
+                        {
+                            "name": "PostgreSQL",
+                            "web": "https://www.postgresql.org/"
+                        },
+                        {
+                            "name": "MariaDB",
+                            "web": "https://mariadb.org/"
+                        },
+                        {
+                            "name": "SQLite",
+                            "web": "https://www.sqlite.org/"
+                        },
+                        {
+                            "name": "MSSQL Server",
+                            "web": "https://www.microsoft.com/en-us/sql-server/sql-server-downloads"
+                        },
+                        {
+                            "name": "Oracle",
+                            "web": "https://www.oracle.com/database/"
+                        },
+                        {
+                            "name": "SQLAlchemy",
+                            "web": "https://www.sqlalchemy.org/"
+                        }
+                    ]
+                },
+                "testing": [
+                    {
+                        "name": "JMeter",
+                        "web": "https://jmeter.apache.org/"
+                    },
+                    {
+                        "name": "Cypress",
+                        "web": "https://www.cypress.io/"
+                    },
+                    {
+                        "name": "Selenium",
+                        "web": "https://www.selenium.dev/"
+                    },
+                    {
+                        "name": "TestCafe",
+                        "web": "https://devexpress.github.io/testcafe/"
+                    },
+                    {
+                        "name": "Puppeteer",
+                        "web": "https://pptr.dev/"
+                    },
+                    {
+                        "name": "Nightwatch",
+                        "web": "https://nightwatchjs.org/"
+                    },
+                    {
+                        "name": "Protractor",
+                        "web": "https://www.protractortest.org/"
+                    },
+                    {
+                        "name": "Postman",
+                        "web": "https://www.postman.com/"
+                    }
+                ],
+                "cloud": {
+                    "platforms": [
+                        {
+                            "name": "AWS",
+                            "web": "https://aws.amazon.com/"
+                        },
+                        {
+                            "name": "Azure",
+                            "web": "https://azure.microsoft.com/en-in/"
+                        },
+                        {
+                            "name": "GCP",
+                            "web": "https://cloud.google.com/"
+                        },
+                        {
+                            "name": "Firebase",
+                            "web": "https://firebase.google.com/"
+                        },
+                        {
+                            "name": "Heroku",
+                            "web": "https://www.heroku.com/"
+                        },
+                        {
+                            "name": "Digital Ocean",
+                            "web": "https://www.digitalocean.com/"
+                        },
+                        {
+                            "name": "VMWare",
+                            "web": "https://www.vmware.com/"
+                        },
+                        {
+                            "name": "Linode",
+                            "web": "https://www.linode.com/"
+                        }
+                    ]
+                },
+                "gaming": {
+                    "engines": [
+                        {
+                            "name": "Unity",
+                            "web": "https://unity.com/"
+                        },
+                        {
+                            "name": "Unreal Engine",
+                            "web": "https://www.unrealengine.com/en-US/"
+                        },
+                        {
+                            "name": "Godot",
+                            "web": "https://godotengine.org/"
+                        },
+                        {
+                            "name": "Cocos2d-x",
+                            "web": "https://www.cocos2d-x.org/"
+                        },
+                        {
+                            "name": "Corona SDK",
+                            "web": "https://coronalabs.com/"
+                        },
+                        {
+                            "name": "GameMaker Studio",
+                            "web": "https://www.yoyogames.com/gamemaker"
+                        },
+                        {
+                            "name": "Stencyl",
+                            "web": "https://www.stencyl.com/"
+                        },
+                        {
+                            "name": "GameSalad",
+                            "web": "https://gamesalad.com/"
+                        },
+                        {
+                            "name": "AppGameKit",
+                            "web": "https://www.appgamekit.com/"
+                        },
+                        {
+                            "name": "Game Closure",
+                            "web": "https://gameclosure.com/"
+                        },
+                        {
+                            "name": "Construct 2",
+                            "web": "https://www.scirra.com/construct2"
+                        },
+                        {
+                            "name": "CryEngine",
+                            "web": "https://www.cryengine.com/"
+                        },
+                        {
+                            "name": "Cocos Creator",
+                            "web": "https://www.cocos.com/en/creator"
+                        }
+                    ],
+                    "web": [
+                        {
+                            "name": "Phaser",
+                            "web": "https://phaser.io/"
+                        },
+                        {
+                            "name": "PixiJS",
+                            "web": "https://www.pixijs.com/"
+                        },
+                        {
+                            "name": "PlayCanvas",
+                            "web": "https://playcanvas.com/"
+                        },
+                        {
+                            "name": "EaselJS",
+                            "web": "https://www.createjs.com/easeljs"
+                        }
+                    ]
+                },
+                "developmentEnvironment": [
+                    {
+                        "name": "git",
+                        "url": "https://git-scm.com/"
+                    },
+                    {
+                        "name": "docker",
+                        "url": "https://www.docker.com/"
+                    },
+                    {
+                        "name": "kubernetes",
+                        "url": "https://kubernetes.io/"
+                    },
+                    {
+                        "name": "jenkins",
+                        "url": "https://www.jenkins.io/"
+                    },
+                    {
+                        "name": "travis",
+                        "url": "https://travis-ci.org/"
+                    },
+                    {
+                        "name": "circleci",
+                        "url": "https://circleci.com/"
+                    }
+                ],
+                "codeEditors": [
+                    {
+                        "name": "vscode",
+                        "url": "https://code.visualstudio.com/",
+                        "languages": [
+                            "all"
+                        ],
+                        "pricing": "free",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "atom",
+                        "url": "https://atom.io/",
+                        "languages": [
+                            "all"
+                        ],
+                        "pricing": "free",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "sublime",
+                        "url": "https://www.sublimetext.com/",
+                        "languages": [
+                            "all"
+                        ],
+                        "pricing": "free",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "brackets",
+                        "url": "http://brackets.io/",
+                        "languages": [
+                            "all"
+                        ],
+                        "pricing": "free",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "notepad++",
+                        "url": "https://notepad-plus-plus.org/",
+                        "languages": [
+                            "all"
+                        ],
+                        "pricing": "free",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "vim",
+                        "url": "https://www.vim.org/",
+                        "languages": [
+                            "all"
+                        ],
+                        "pricing": "free",
+                        "os": [
+                            "linux",
+                            "macos"
+                        ]
+                    },
+                    {
+                        "name": "emacs",
+                        "url": "https://www.gnu.org/software/emacs/",
+                        "languages": [
+                            "all"
+                        ],
+                        "pricing": "free",
+                        "os": [
+                            "macos"
+                        ]
+                    },
+                    {
+                        "name": "nano",
+                        "url": "https://www.nano-editor.org/",
+                        "languages": [
+                            "all"
+                        ],
+                        "pricing": "free",
+                        "os": [
+                            "linux"
+                        ]
+                    },
+                    {
+                        "name": "gedit",
+                        "url": "https://wiki.gnome.org/Apps/Gedit",
+                        "language": [
+                            "all"
+                        ],
+                        "pricing": "free",
+                        "os": [
+                            "linux"
+                        ]
+                    },
+                    {
+                        "name": "phpstorm",
+                        "url": "https://www.jetbrains.com/phpstorm/",
+                        "languages": [
+                            "php"
+                        ],
+                        "pricing": "paid",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "webstorm",
+                        "url": "https://www.jetbrains.com/webstorm/",
+                        "languages": [
+                            "javascript",
+                            "typescript"
+                        ],
+                        "pricing": "paid",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "pycharm",
+                        "url": "https://www.jetbrains.com/pycharm/",
+                        "languages": [
+                            "python"
+                        ],
+                        "pricing": "paid",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "goland",
+                        "url": "https://www.jetbrains.com/go/",
+                        "languages": [
+                            "go"
+                        ],
+                        "pricing": "paid",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "intellij",
+                        "url": "https://www.jetbrains.com/idea/",
+                        "languages": [
+                            "java"
+                        ],
+                        "pricing": "paid",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "clion",
+                        "url": "https://www.jetbrains.com/clion/",
+                        "languages": [
+                            "c",
+                            "c++"
+                        ],
+                        "pricing": "paid",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "rubymine",
+                        "url": "https://www.jetbrains.com/ruby/",
+                        "languages": [
+                            "ruby"
+                        ],
+                        "pricing": "paid",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "datagrip",
+                        "url": "https://www.jetbrains.com/datagrip/",
+                        "languages": [
+                            "sql"
+                        ],
+                        "pricing": "paid",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "appcode",
+                        "url": "https://www.jetbrains.com/objc/",
+                        "languages": [
+                            "swift"
+                        ],
+                        "pricing": "paid",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "android studio",
+                        "url": "https://developer.android.com/studio",
+                        "languages": [
+                            "java",
+                            "kotlin"
+                        ],
+                        "pricing": "paid",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "visual studio",
+                        "url": "https://visualstudio.microsoft.com/",
+                        "languages": [
+                            "c#",
+                            "c++"
+                        ],
+                        "pricing": "paid",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "xcode",
+                        "url": "https://developer.apple.com/xcode/",
+                        "languages": [
+                            "swift"
+                        ],
+                        "pricing": "paid",
+                        "os": [
+                            "macos"
+                        ]
+                    },
+                    {
+                        "name": "eclipse",
+                        "url": "https://www.eclipse.org/",
+                        "languages": [
+                            "java"
+                        ],
+                        "pricing": "free",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "netbeans",
+                        "url": "https://netbeans.apache.org/",
+                        "languages": [
+                            "java"
+                        ],
+                        "pricing": "free",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "codeblocks",
+                        "url": "http://www.codeblocks.org/",
+                        "languages": [
+                            "c",
+                            "c++"
+                        ],
+                        "pricing": "free",
+                        "os": [
+                            "all"
+                        ]
+                    },
+                    {
+                        "name": "r studio",
+                        "url": "https://rstudio.com/",
+                        "languages": [
+                            "r"
+                        ],
+                        "pricing": "free",
+                        "os": [
+                            "all"
+                        ]
+                    }
+                ],
+                "dataFormats": [
+                    {
+                        "name": "JSON"
+                    },
+                    {
+                        "name": "Markdown"
+                    },
+                    {
+                        "name": "CSV"
+                    },
+                    {
+                        "name": "XML"
+                    },
+                    {
+                        "name": "YAML"
+                    }
+                ],
+                "web3": {
+                    "wallets": [
+                        {
+                            "name": "metamask",
+                            "url": "https://metamask.io/"
+                        },
+                        {
+                            "name": "trustwallet",
+                            "url": "https://trustwallet.com/"
+                        },
+                        {
+                            "name": "coinbase",
+                            "url": "https://wallet.coinbase.com/"
+                        },
+                        {
+                            "name": "imtoken",
+                            "url": "https://token.im/"
+                        },
+                        {
+                            "name": "status",
+                            "url": "https://status.im/"
+                        },
+                        {
+                            "name": "myetherwallet",
+                            "url": "https://www.myetherwallet.com/"
+                        }
+                    ],
+                    "cryptoCurrencies": [
+                        {
+                            "name": "ethereum",
+                            "url": "https://ethereum.org/"
+                        },
+                        {
+                            "name": "bitcoin",
+                            "url": "https://bitcoin.org/"
+                        },
+                        {
+                            "name": "litecoin",
+                            "url": "https://litecoin.org/"
+                        },
+                        {
+                            "name": "dogecoin",
+                            "url": "https://dogecoin.com/"
+                        },
+                        {
+                            "name": "ripple",
+                            "url": "https://ripple.com/"
+                        },
+                        {
+                            "name": "monero",
+                            "url": "https://getmonero.org/"
+                        }
+                    ],
+                    "frameworks": [
+                        {
+                            "name": "web3.js",
+                            "url": "https://web3js.readthedocs.io/en/v1.2.0/"
+                        },
+                        {
+                            "name": "ethers.js",
+                            "url": "https://docs.ethers.io/ethers.js/html/"
+                        },
+                        {
+                            "name": "truffle",
+                            "url": "https://www.trufflesuite.com/"
+                        },
+                        {
+                            "name": "OpenZeppelin",
+                            "url": "https://openzeppelin.com/"
+                        },
+                        {
+                            "name": "Embark",
+                            "url": "https://framework.embarklabs.io/"
+                        },
+                        {
+                            "name": "Chainlink",
+                            "url": "https://chain.link/"
+                        }
+                    ],
+                    "dapps": [
+                        {
+                            "name": "cryptokitties",
+                            "url": "https://www.cryptokitties.co/"
+                        },
+                        {
+                            "name": "cryptopunks",
+                            "url": "https://www.larvalabs.com/cryptopunks"
+                        },
+                        {
+                            "name": "cryptovoxels",
+                            "url": "https://www.cryptovoxels.com/"
+                        },
+                        {
+                            "name": "etheremon",
+                            "url": "https://etheremon.com/"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "solidity",
+                            "url": "https://docs.soliditylang.org/en/v0.8.4/"
+                        },
+                        {
+                            "name": "vyper",
+                            "url": "https://vyper.readthedocs.io/en/stable/"
+                        }
+                    ],
+                    "blockchains": [
+                        {
+                            "name": "ethereum",
+                            "url": "https://ethereum.org/"
+                        },
+                        {
+                            "name": "binance smart chain",
+                            "url": "https://www.binance.org/en/smartChain"
+                        },
+                        {
+                            "name": "polygon",
+                            "url": "https://polygon.technology/"
+                        },
+                        {
+                            "name": "avalanche",
+                            "url": "https://www.avax.network/"
+                        }
+                    ]
+                },
+                "artificialIntelligence": {
+                    "machineLearning": {
+                        "frameworks": [
+                            {
+                                "name": "tensorflow",
+                                "url": "https://www.tensorflow.org/",
+                                "docs": "https://www.tensorflow.org/api_docs/"
+                            },
+                            {
+                                "name": "pytorch",
+                                "url": "https://pytorch.org/",
+                                "docs": "https://pytorch.org/docs/stable/"
+                            },
+                            {
+                                "name": "keras",
+                                "url": "https://keras.io/",
+                                "docs": "https://keras.io/api/"
+                            },
+                            {
+                                "name": "caffe",
+                                "url": "https://caffe.berkeleyvision.org/",
+                                "docs": "https://caffe.berkeleyvision.org/doxygen/"
+                            },
+                            {
+                                "name": "scikit-learn",
+                                "url": "https://scikit-learn.org/stable/",
+                                "docs": "https://scikit-learn.org/stable/modules/classes.html"
+                            }
+                        ],
+                        "libraries": [
+                            {
+                                "name": "numpy",
+                                "url": "https://numpy.org/",
+                                "docs": "https://numpy.org/doc/stable/"
+                            },
+                            {
+                                "name": "pandas",
+                                "url": "https://pandas.pydata.org/",
+                                "docs": "https://pandas.pydata.org/docs/"
+                            },
+                            {
+                                "name": "scipy",
+                                "url": "https://www.scipy.org/",
+                                "docs": "https://docs.scipy.org/doc/"
+                            },
+                            {
+                                "name": "matplotlib",
+                                "url": "https://matplotlib.org/",
+                                "docs": "https://matplotlib.org/3.3.3/api/index.html"
+                            },
+                            {
+                                "name": "seaborn",
+                                "url": "https://seaborn.pydata.org/",
+                                "docs": "https://seaborn.pydata.org/api.html"
+                            },
+                            {
+                                "name": "plotly",
+                                "url": "https://plotly.com/python/",
+                                "docs": "https://plotly.com/python-api-reference/"
+                            },
+                            {
+                                "name": "bokeh",
+                                "url": "https://bokeh.org/",
+                                "docs": "https://docs.bokeh.org/en/latest/docs/reference.html"
+                            }
+                        ]
+                    },
+                    "naturalLanguageProcessing": {
+                        "frameworks": [
+                            {
+                                "name": "spaCy",
+                                "url": "https://spacy.io/",
+                                "docs": "https://spacy.io/api/"
+                            },
+                            {
+                                "name": "NLTK",
+                                "url": "https://www.nltk.org/",
+                                "docs": "https://www.nltk.org/api/nltk.html"
+                            },
+                            {
+                                "name": "Gensim",
+                                "url": "https://radimrehurek.com/gensim/",
+                                "docs": "https://radimrehurek.com/gensim/apiref.html"
+                            },
+                            {
+                                "name": "TextBlob",
+                                "url": "https://textblob.readthedocs.io/en/dev/",
+                                "docs": "https://textblob.readthedocs.io/en/dev/api_reference.html"
+                            },
+                            {
+                                "name": "Stanford CoreNLP",
+                                "url": "https://stanfordnlp.github.io/CoreNLP/",
+                                "docs": "https://stanfordnlp.github.io/CoreNLP/corenlp-server.html"
+                            },
+                            {
+                                "name": "AllenNLP",
+                                "url": "https://allennlp.org/",
+                                "docs": "https://docs.allennlp.org/main/api/allennlp/"
+                            }
+                        ]
+                    },
+                    "computerVision": {
+                        "frameworks": [
+                            {
+                                "name": "OpenCV",
+                                "url": "https://opencv.org/",
+                                "docs": "https://docs.opencv.org/master/"
+                            }
+                        ]
+                    },
+                    "reinforcementLearning": {
+                        "frameworks": [
+                            {
+                                "name": "openai gym",
+                                "url": "https://gym.openai.com/",
+                                "docs": "https://gym.openai.com/docs/"
+                            },
+                            {
+                                "name": "stable baselines",
+                                "url": "https://stable-baselines.readthedocs.io/en/master/",
+                                "docs": "https://stable-baselines.readthedocs.io/en/master/modules/base.html"
+                            },
+                            {
+                                "name": "ray",
+                                "url": "https://ray.io/",
+                                "docs": "https://docs.ray.io/en/master/"
+                            },
+                            {
+                                "name": "rllib",
+                                "url": "https://ray.readthedocs.io/en/latest/rllib.html",
+                                "docs": "https://ray.readthedocs.io/en/latest/rllib.html"
+                            },
+                            {
+                                "name": "tensorforce",
+                                "url": "https://tensorforce.readthedocs.io/en/latest/",
+                                "docs": "https://tensorforce.readthedocs.io/en/latest/modules/core.html"
+                            }
+                        ]
+                    }
+                },
+                "all": {
+                    "docs": [
+                        {
+                            "name": "Devhints",
+                            "url": "https://devhints.io/"
+                        }
+                    ]
+                }
+            },
+            "networking": {
+                "web": [
+                    {
+                        "name": "IETF",
+                        "web": "https://www.ietf.org/"
+                    },
+                    {
+                        "name": "RFC",
+                        "web": "https://www.rfc-editor.org/"
+                    },
+                    {
+                        "name": "HTTP",
+                        "web": "https://www.w3.org/Protocols/"
+                    }
+                ],
+                "softwares": [
+                    {
+                        "name": "Wireshark",
+                        "web": "https://www.wireshark.org/"
+                    },
+                    {
+                        "name": "Nmap",
+                        "web": "https://nmap.org/"
+                    },
+                    {
+                        "name": "Netcat",
+                        "web": "https://nmap.org/ncat/"
+                    },
+                    {
+                        "name": "Netstat",
+                        "web": "http://netstat.net/"
+                    }
+                ]
+            },
+            "cli": {
+                "softwares": [
+                    {
+                        "name": "curl",
+                        "web": "https://curl.haxx.se/"
+                    },
+                    {
+                        "name": "wget",
+                        "web": "https://www.gnu.org/software/wget/"
+                    },
+                    {
+                        "name": "aria2",
+                        "web": "https://aria2.github.io/"
+                    },
+                    {
+                        "name": "httpie",
+                        "web": "https://httpie.org/"
+                    },
+                    {
+                        "name": "http-prompt",
+                        "web": "https://http-prompt.com/"
+                    }
+                ]
+            },
+            "OS": [
+                {
+                    "name": "Linux",
+                    "url": "https://www.linux.org/"
+                },
+                {
+                    "name": "Windows",
+                    "url": "https://www.microsoft.com/en-us/windows",
+                    "terminals": [
+                        {
+                            "name": "Windows Terminal",
+                            "url": "https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab"
+                        },
+                        {
+                            "name": "Cmder",
+                            "url": "https://cmder.net/"
+                        },
+                        {
+                            "name": "ConEmu",
+                            "url": "https://conemu.github.io/"
+                        },
+                        {
+                            "name": "Hyper",
+                            "url": "https://hyper.is/"
+                        },
+                        {
+                            "name": "Fluent Terminal",
+                            "url": "https://github.com/felixse/FluentTerminal"
+                        }
+                    ]
+                },
+                {
+                    "name": "MacOS",
+                    "url": "https://www.apple.com/macos/"
+                },
+                {
+                    "name": "Android",
+                    "url": "https://www.android.com/"
+                },
+                {
+                    "name": "iOS",
+                    "url": "https://www.apple.com/ios/"
+                }
+            ]
+        },
+        "hardware": {
+            "iot": {
+                "sensors": {
+                    "temperature": [
+                        {
+                            "name": "DHT11",
+                            "url": "https://www.adafruit.com/product/386"
+                        },
+                        {
+                            "name": "DHT22",
+                            "url": "https://www.adafruit.com/product/385"
+                        },
+                        {
+                            "name": "DS18B20",
+                            "url": "https://www.adafruit.com/product/381"
+                        }
+                    ],
+                    "humidity": [
+                        {
+                            "name": "DHT11",
+                            "url": "https://www.adafruit.com/product/386"
+                        },
+                        {
+                            "name": "DHT22",
+                            "url": "https://www.adafruit.com/product/385"
+                        }
+                    ],
+                    "pressure": [
+                        {
+                            "name": "BMP180",
+                            "url": "https://www.adafruit.com/product/391"
+                        },
+                        {
+                            "name": "BMP280",
+                            "url": "https://www.adafruit.com/product/2651"
+                        }
+                    ],
+                    "light": [
+                        {
+                            "name": "TSL2561",
+                            "url": "https://www.adafruit.com/product/439"
+                        },
+                        {
+                            "name": "TSL2591",
+                            "url": "https://www.adafruit.com/product/1980"
+                        }
+                    ],
+                    "sound": [
+                        {
+                            "name": "MAX4466",
+                            "url": "https://www.adafruit.com/product/1063"
+                        }
+                    ],
+                    "proximity": [
+                        {
+                            "name": "VL53L0X",
+                            "url": "https://www.adafruit.com/product/3317"
+                        }
+                    ],
+                    "motion": [
+                        {
+                            "name": "MPU6050",
+                            "url": "https://www.adafruit.com/product/3886"
+                        },
+                        {
+                            "name": "MPU9250",
+                            "url": "https://www.adafruit.com/product/3976"
+                        }
+                    ],
+                    "gps": [
+                        {
+                            "name": "NEO-6M",
+                            "url": "https://www.adafruit.com/product/746"
+                        }
+                    ],
+                    "gas": [
+                        {
+                            "name": "ENS160 MOX",
+                            "url": "https://www.adafruit.com/product/5606"
+                        }
+                    ]
+                },
+                "actuators": {
+                    "motors": [
+                        {
+                            "name": "DC Motor",
+                            "url": "https://www.adafruit.com/product/377"
+                        },
+                        {
+                            "name": "Stepper Motor",
+                            "url": "https://www.adafruit.com/product/324"
+                        }
+                    ],
+                    "servos": [
+                        {
+                            "name": "SG90",
+                            "url": "https://www.adafruit.com/product/169"
+                        }
+                    ],
+                    "relays": [
+                        {
+                            "name": "5V Relay",
+                            "url": "https://www.adafruit.com/product/319"
+                        }
+                    ],
+                    "leds": [
+                        {
+                            "name": "RGB LED",
+                            "url": "https://www.adafruit.com/product/306"
+                        },
+                        {
+                            "name": "RGBW LED",
+                            "url": "https://www.adafruit.com/product/306"
+                        }
+                    ]
+                },
+                "microcontrollers": [
+                    {
+                        "name": "Arduino",
+                        "url": "https://www.arduino.cc/"
+                    },
+                    {
+                        "name": "Raspberry Pi",
+                        "url": "https://www.raspberrypi.org/"
+                    },
+                    {
+                        "name": "ESP32",
+                        "url": "https://www.espressif.com/en/products/socs/esp32"
+                    },
+                    {
+                        "name": "ESP8266",
+                        "url": "https://www.espressif.com/en/products/socs/esp8266"
+                    },
+                    {
+                        "name": "Teensy",
+                        "url": "https://www.pjrc.com/teensy/"
+                    },
+                    {
+                        "name": "STM32",
+                        "url": "https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"
+                    },
+                    {
+                        "name": "PIC",
+                        "url": "https://www.microchip.com/design-centers/8-bit/pic-mcus"
+                    },
+                    {
+                        "name": "AVR",
+                        "url": "https://www.microchip.com/design-centers/8-bit/avr-mcus"
+                    },
+                    {
+                        "name": "8051",
+                        "url": "https://en.wikipedia.org/wiki/8051"
+                    },
+                    {
+                        "name": "Atmel",
+                        "url": "https://www.microchip.com/design-centers/8-bit/avr-mcus"
+                    }
+                ]
+            }
+        },
+        "all": {
+            "videosContent": [
+                {
+                    "name": "udemy",
+                    "url": "htpps://udemy.com"
+                },
+                {
+                    "name": "youtube",
+                    "url": "https://youtube.com"
+                },
+                {
+                    "name": "edx",
+                    "url": "https://edx.org"
+                },
+                {
+                    "name": "coursera",
+                    "url": "https://coursera.com"
+                },
+                {
+                    "name": "udacity",
+                    "url": "https://udacity.com"
+                },
+                {
+                    "name": "codeschool",
+                    "url": "https://codeschool.com"
+                },
+                {
+                    "name": "codeacademy",
+                    "url": "codeschool.com"
+                },
+                {
+                    "name": "Linkedin Learning",
+                    "url": "https://www.linkedin.com/learning/"
+                },
+                {
+                    "name": "Pluralsight",
+                    "url": "https://www.pluralsight.com/"
+                }
+            ],
+            "youtube": [
+                {
+                    "name": "freeCodeCamp.org",
+                    "url": "https://www.youtube.com/c/Freecodecamp"
+                },
+                {
+                    "name": "thenewboston",
+                    "url": "https://www.youtube.com/user/thenewboston"
+                },
+                {
+                    "name": "Derek Banas",
+                    "url": "https://www.youtube.com/user/derekbanas"
+                },
+                {
+                    "name": "ProgrammingKnowledge",
+                    "url": "https://www.youtube.com/c/ProgrammingKnowledge"
+                },
+                {
+                    "name": "edureka!",
+                    "url": "https://www.youtube.com/user/edurekaIN"
+                },
+                {
+                    "name": "Traversy Media",
+                    "url": "https://www.youtube.com/user/TechGuyWeb"
+                },
+                {
+                    "name": "LearnCode.academy",
+                    "url": "https://www.youtube.com/user/learncodeacademy"
+                },
+                {
+                    "name": "Programming with Mosh",
+                    "url": "https://www.youtube.com/user/programmingwithmosh"
+                },
+                {
+                    "name": "DevTips",
+                    "url": "https://www.youtube.com/user/DevTipsForDesigners"
+                },
+                {
+                    "name": "Codecourse",
+                    "url": "https://www.youtube.com/user/phpacademy"
+                },
+                {
+                    "name": "Academind",
+                    "url": "https://www.youtube.com/c/Academind"
+                },
+                {
+                    "name": "LevelUpTuts",
+                    "url": "https://www.youtube.com/user/LevelUpTuts"
+                },
+                {
+                    "name": "Treehouse",
+                    "url": "https://www.youtube.com/user/gotreehouse"
+                },
+                {
+                    "name": "LearnWebCode",
+                    "url": "https://www.youtube.com/user/LearnWebCode"
+                },
+                {
+                    "name": "Adam Khoury",
+                    "url": "https://www.youtube.com/user/flashbuilding"
+                },
+                {
+                    "name": "Darrel Wilson",
+                    "url": "https://www.youtube.com/c/Darrelwilsonbug"
+                },
+                {
+                    "name": "Stefen Mischook",
+                    "url": "https://www.youtube.com/c/StefanMischook"
+                },
+                {
+                    "name": "Joe Parys Academy",
+                    "url": "https://www.youtube.com/c/JoeParysCrypto"
+                },
+                {
+                    "name": "JREAM",
+                    "url": "https://www.youtube.com/user/JREAMdesign"
+                },
+                {
+                    "name": "1stWebDesigner",
+                    "url": "https://www.youtube.com/user/1stwebdesigner"
+                },
+                {
+                    "name": "NeilRowe",
+                    "url": "https://www.youtube.com/user/CodersGuide"
+                },
+                {
+                    "name": "CSS-Tricks",
+                    "url": "https://www.youtube.com/user/realcsstricks"
+                },
+                {
+                    "name": "Tuts+ Web Design",
+                    "url": "https://www.youtube.com/user/webdesigntutsplus"
+                },
+                {
+                    "name": "Eli the Computer Guy",
+                    "url": "https://www.youtube.com/c/Elithecomputerguypage"
+                }
+            ],
+            "web": [
+                {
+                    "name": "w3schools",
+                    "url": "https://www.w3schools.com/"
+                },
+                {
+                    "name": "FreeCodeCamp",
+                    "url": "https://www.freecodecamp.org/"
+                },
+                {
+                    "name": "TutorialsPoint",
+                    "url": "https://www.tutorialspoint.com/"
+                },
+                {
+                    "name": "GeeksforGeeks",
+                    "url": "https://www.geeksforgeeks.org/"
+                },
+                {
+                    "name": "JavaTPoint",
+                    "url": "https://www.javatpoint.com/"
+                },
+                {
+                    "name": "StudyTonight",
+                    "url": "https://www.studytonight.com/"
+                }
+            ],
+            "blogs": [
+                {
+                    "name": "Medium",
+                    "url": "https://medium.com/"
+                },
+                {
+                    "name": "Dev.to",
+                    "url": "https://dev.to/"
+                },
+                {
+                    "name": "Hashnode",
+                    "url": "https://hashnode.com/"
+                },
+                {
+                    "name": "Codeburst",
+                    "url": "https://codeburst.io/"
+                }
+            ]
+        }
+    },
+    "design": {
+        "ui": {
+            "ingredients": {
+                "text": {
+                    "web": [
+                        {
+                            "name": "Lorem Ipsum",
+                            "url": "https://www.lipsum.com/"
+                        },
+                        {
+                            "name": "Placehold.it",
+                            "url": "https://placehold.it/"
+                        }
+                    ]
+                },
+                "colors": {
+                    "web": [
+                        {
+                            "name": "Color Hexa",
+                            "url": "https://www.colorhexa.com/"
+                        },
+                        {
+                            "name": "Web FX Design Picker",
+                            "url": "https://www.webfx.com/web-design/color-picker/"
+                        },
+                        {
+                            "name": "Colour Lovers",
+                            "url": "https://www.colourlovers.com/"
+                        },
+                        {
+                            "name": "Flat UI Colors",
+                            "url": "https://flatuicolors.com/"
+                        },
+                        {
+                            "name": "CSS Gradient",
+                            "url": "https://cssgradient.io/"
+                        },
+                        {
+                            "name": "ColorHunt",
+                            "url": "https://colorhunt.co/"
+                        },
+                        {
+                            "name": "UIGradients",
+                            "url": "https://uigradients.com/"
+                        },
+                        {
+                            "name": "ColorSpace",
+                            "url": "https://mycolor.space/"
+                        }
+                    ]
+                },
+                "fonts": {
+                    "web": [
+                        {
+                            "name": "Google Fonts",
+                            "url": "https://fonts.google.com/"
+                        },
+                        {
+                            "name": "Font Squirrel",
+                            "url": "https://www.fontsquirrel.com/"
+                        },
+                        {
+                            "name": "Font Awesome",
+                            "url": "https://fontawesome.com/"
+                        },
+                        {
+                            "name": "Font Space",
+                            "url": "https://www.fontspace.com/"
+                        },
+                        {
+                            "name": "1001 Free Fonts",
+                            "url": "https://www.1001freefonts.com/"
+                        }
+                    ]
+                },
+                "icons": {
+                    "web": [
+                        {
+                            "name": "Font Awesome",
+                            "url": "https://fontawesome.com/"
+                        },
+                        {
+                            "name": "Flaticon",
+                            "url": "https://www.flaticon.com/icons"
+                        },
+                        {
+                            "name": "Icon Finder",
+                            "url": "https://www.iconfinder.com/"
+                        },
+                        {
+                            "name": "The Noun Project",
+                            "url": "https://thenounproject.com/"
+                        },
+                        {
+                            "name": "Iconmonstr",
+                            "url": "https://iconmonstr.com/"
+                        },
+                        {
+                            "name": "Simple Icons",
+                            "url": "https://simpleicons.org/"
+                        },
+                        {
+                            "name": "Icofont",
+                            "url": "https://icofont.com/"
+                        },
+                        {
+                            "name": "icons8",
+                            "url": "https://icons8.com/"
+                        }
+                    ]
+                },
+                "shadows": {},
+                "avators": {},
+                "illustrations": {
+                    "web": [
+                        {
+                            "name": "UnDraw",
+                            "url": "https://undraw.co/illustrations"
+                        },
+                        {
+                            "name": "Open Doodles",
+                            "url": "https://www.opendoodles.com/"
+                        },
+                        {
+                            "name": "Humaaans",
+                            "url": "https://www.humaaans.com/"
+                        },
+                        {
+                            "name": "Blush",
+                            "url": "https://blush.design/"
+                        },
+                        {
+                            "name": "DrawKit",
+                            "url": "https://www.drawkit.io/"
+                        },
+                        {
+                            "name": "Freepik",
+                            "url": "https://www.freepik.com/"
+                        }
+                    ]
+                },
+                "images": {
+                    "web": [
+                        {
+                            "name": "Unsplash",
+                            "url": "https://unsplash.com/"
+                        },
+                        {
+                            "name": "Pexels",
+                            "url": "https://www.pexels.com/"
+                        },
+                        {
+                            "name": "Pixabay",
+                            "url": "https://pixabay.com/"
+                        },
+                        {
+                            "name": "StockSnap",
+                            "url": "https://stocksnap.io/"
+                        },
+                        {
+                            "name": "Reshot",
+                            "url": "https://www.reshot.com/"
+                        },
+                        {
+                            "name": "Gratisography",
+                            "url": "https://gratisography.com/"
+                        }
+                    ]
+                }
+            },
+            "templates": {
+                "web": [
+                    {
+                        "name": "Webdesign-inspiration",
+                        "url": "https://Webdesign-inspiration.com"
+                    },
+                    {
+                        "name": "Screenlane",
+                        "url": "https://screenlane.com/"
+                    },
+                    {
+                        "name": "Sketchrepo",
+                        "url": "https://sketchrepo.com/"
+                    },
+                    {
+                        "name": "XDGuru",
+                        "url": "https://www.xdguru.com/"
+                    },
+                    {
+                        "name": "UISpace",
+                        "ulr": "https://uispace.net/"
+                    },
+                    {
+                        "name": "UIGarage",
+                        "url": "https://uigarage.net/"
+                    },
+                    {
+                        "name": "Dribbble",
+                        "url": "https://dribbble.com/"
+                    },
+                    {
+                        "name": "UIBundle",
+                        "url": "https://uibundle.com/"
+                    },
+                    {
+                        "name": "UI Store Design",
+                        "url": "https://www.uistore.design/"
+                    },
+                    {
+                        "name": "Land-Book",
+                        "url": "https://land-book.com/"
+                    },
+                    {
+                        "name": "lapa",
+                        "url": "https://www.lapa.ninja/"
+                    },
+                    {
+                        "name": "awwwardas",
+                        "url": "https://www.awwwards.com/"
+                    },
+                    {
+                        "name": "behance",
+                        "url": "https://www.behance.net/"
+                    },
+                    {
+                        "name": "Landingfolio",
+                        "url": "https://landingfolio.com/"
+                    },
+                    {
+                        "name": "One Page Love",
+                        "url": "https://onepagelove.com/"
+                    },
+                    {
+                        "name": "Best Website Gallery",
+                        "url": "https://bestwebsite.gallery/"
+                    },
+                    {
+                        "name": "Saas Landing Page",
+                        "url": "https://saaslandingpage.com/"
+                    },
+                    {
+                        "name": "openby.design",
+                        "url": "http://openby.design/"
+                    }
+                ]
+            },
+            "tools": {
+                "userFlows": [
+                    {
+                        "name": "Draw.io",
+                        "url": "https://app.diagrams.net/"
+                    },
+                    {
+                        "name": "Flowmapp",
+                        "url": "https://flowmapp.com/"
+                    },
+                    {
+                        "name": "Lucidchart",
+                        "url": "https://www.lucidchart.com/"
+                    },
+                    {
+                        "name": "Miro",
+                        "url": "https://miro.com/"
+                    },
+                    {
+                        "name": "Mindnode",
+                        "url": "https://mindnode.com/"
+                    },
+                    {
+                        "name": "Wireflow",
+                        "url": "https://wireflow.co/"
+                    }
+                ],
+                "wireframes": [
+                    {
+                        "name": "Balsamiq",
+                        "url": "https://balsamiq.com/"
+                    },
+                    {
+                        "name": "Wireframe.cc",
+                        "url": "https://wireframe.cc/"
+                    },
+                    {
+                        "name": "Mockflow",
+                        "url": "https://www.mockflow.com/"
+                    },
+                    {
+                        "name": "Whimsical",
+                        "url": "https://whimsical.com/"
+                    },
+                    {
+                        "name": "Pidoco",
+                        "url": "https://pidoco.com/"
+                    }
+                ],
+                "prototypes": [
+                    {
+                        "name": "Adobe XD",
+                        "url": "https://www.adobe.com/products/xd.html"
+                    },
+                    {
+                        "name": "Figma",
+                        "url": "https://www.figma.com/"
+                    },
+                    {
+                        "name": "Sketch",
+                        "url": "https://www.sketch.com/"
+                    },
+                    {
+                        "name": "Wimsical",
+                        "url": "https://wimsical.com/"
+                    },
+                    {}
+                ]
+            }
+        },
+        "ux": {
+            "books": [
+                {
+                    "name": "Don't Make Me Think",
+                    "url": "https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515"
+                },
+                {
+                    "name": "The Design of Everyday Things",
+                    "url": "https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654"
+                },
+                {
+                    "name": "100 Things Every Designer Needs to Know About People",
+                    "url": "https://www.amazon.com/Things-Every-Designer-People-Interaction/dp/0321834739"
+                },
+                {
+                    "name": "The User Experience Team of One",
+                    "url": "https://www.amazon.com/User-Experience-Team-One-Introduction/dp/0321834739"
+                },
+                {
+                    "name": "The Rocket Surgery Made Easy",
+                    "url": "https://www.amazon.com/Rocket-Surgery-Made-Easy-Practical/dp/0321834739"
+                },
+                {
+                    "name": "Build Better Products",
+                    "url": "https://www.amazon.com/Build-Better-Products-Principles-Product/dp/1491924318"
+                }
+            ]
+        },
+        "all": {
+            "web": [
+                "https://www.dribbble.com/",
+                "https://www.behance.net/",
+                "https://www.awwwards.com/",
+                "https://www.lapa.ninja/",
+                "https://www.uistore.design/",
+                "https://www.lapa.ninja/"
+            ],
+            "courses": [
+                "https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/",
+                "https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/",
+                "https://www.udemy.com/course/beginners-guide-to-prototyping-and-designing-using-figma/",
+                "https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/",
+                "https://www.udemy.com/course/master-digital-product-design-ux-research-ui-design/"
+            ],
+            "youtube": [
+                {
+                    "name": "DesignCourse",
+                    "url": "https://www.youtube.com/c/DesignCourse"
+                },
+                {
+                    "name": "Jesse Showalter",
+                    "url": "https://www.youtube.com/user/JesseAtomic"
+                },
+                {
+                    "name": "Mizko",
+                    "url": "https://www.youtube.com/c/Mizko"
+                },
+                {
+                    "name": "ChunBuns",
+                    "url": "https://www.youtube.com/c/chunbuns"
+                },
+                {
+                    "name": "Rachel How",
+                    "url": "https://www.youtube.com/c/RachelHow"
+                },
+                {
+                    "name": "Femeke.design",
+                    "url": "https://www.youtube.com/c/FemekeDesign"
+                },
+                {
+                    "name": "The Futur",
+                    "url": "https://www.youtube.com/c/thefuturishere"
+                },
+                {
+                    "name": "High Resolution",
+                    "url": "https://www.youtube.com/c/HighResolution"
+                },
+                {
+                    "name": "Flux Academy",
+                    "url": "https://www.youtube.com/c/FluxWithRanSegall"
+                }
+            ]
+        }
+    },
+    "mathematics": {
+        "calculus1": {
+            "courses": [
+                "https://www.khanacademy.org/math/calculus-home",
+                "https://www.udemy.com/course/calculus1/",
+                "https://www.udemy.com/course/calculus-1-with-the-math-sorcerer/",
+                "https://www.udemy.com/course/calculus-1-lectures-with-the-math-sorcerer/",
+                "https://www.udemy.com/course/pycalc1_x/"
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=fYyARMqiaag&list=PLF797E961509B4EB5",
+                "https://www.youtube.com/watch?v=HfACrKJ_Y2w",
+                "https://www.youtube.com/watch?v=PaBnLWc_17g&list=PLDDGPdw7e6Aj1kTRn-MxD0YVZ-zEL5vBb"
+            ],
+            "books": []
+        },
+        "calculus2": {
+            "courses": [
+                "https://www.udemy.com/course/calculus-2/",
+                "https://www.udemy.com/course/calculus-2-with-the-math-sorcerer/"
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=H9eCT6f_Ftw&list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-",
+                "https://www.youtube.com/watch?v=7gigNsz4Oe8",
+                "https://www.youtube.com/watch?v=i4c8n4S-Sp0&list=PLHXZ9OQGMqxc4ySKTIW19TLrT91Ik9M4n",
+                "https://www.youtube.com/watch?v=oV0INtZT_n0&list=PLW3u28VuDAHLWNxKyfoBQSVBp-fhWrDr0"
+            ],
+            "books": []
+        },
+        "calculus3": {
+            "courses": [
+                "https://www.udemy.com/course/calculus-3/",
+                "https://www.udemy.com/course/calculus-3-multivariable-calculus-part-1-of-2/",
+                "https://www.udemy.com/course/calculus-3-multivariable-calculus-part-2-of-2/",
+                "https://www.udemy.com/course/calculus-3-with-the-math-sorcerer/"
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7",
+                "https://www.youtube.com/watch?v=gsUgDpGWk-M&list=PLHXZ9OQGMqxc_CvEy7xBKRQr6I214QJcd",
+                "https://www.youtube.com/watch?v=vQluxMt1kxI&list=PLbYOkEbzW902s-ZkG8p8gFpiQa_iEM0M8",
+                "https://www.youtube.com/watch?v=OUHfajVpZjM&list=PLl-Np5U6u5E65pRRuD0mBXM4w4fenJ5gD"
+            ],
+            "books": []
+        },
+        "linearAlgebra": {
+            "courses": [
+                "https://www.udemy.com/course/linear-algebra-course/",
+                "https://www.udemy.com/course/linear-algebra-theory-and-implementation/",
+                "https://www.udemy.com/course/linear-algebra-for-beginners-matrices-and-vector-spaces/"
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=LHsPJ2bQX1U&list=PLl-gb0E4MII03hiCrZa7YqxUMEeEPmZqK",
+                "https://www.youtube.com/watch?v=JnTa9XtvmfI",
+                "https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D",
+                "https://www.youtube.com/watch?v=HAoL5fPmgrw&list=PLNr8B4XHL5kGDHOrU4IeI6QNuZHur4F86",
+                "https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B"
+            ],
+            "books": []
+        },
+        "differentialEquations": {
+            "courses": [
+                "https://www.udemy.com/course/ordinary-differential-equations/",
+                "https://www.udemy.com/course/differential-equations-master/",
+                "https://www.udemy.com/course/differential-equations-with-the-math-sorcerer/",
+                "https://www.udemy.com/course/differential/"
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=6o7b9yyhH7k&list=PLDesaqWTN6ETy0l0zZyqZq0y0yQX5FZ8o",
+                "https://www.youtube.com/watch?v=p_di4Zn4wz4&list=PLHXZ9OQGMqxZ7zKtJzIvW0vDQyvq3tZ4x",
+                "https://www.youtube.com/watch?v=ghjOS7Q82s0&list=PLbYOkEbzW902s-ZkG8p8gFpiQa_iEM0M8"
+            ],
+            "books": []
+        },
+        "probabilityAndStatistics": {
+            "courses": [
+                "https://www.udemy.com/course/statistics-probability/",
+                "https://www.udemy.com/course/probability-and-statistics-quizzes-mcq/",
+                "https://www.udemy.com/course/probability-and-statistics-for-business-and-data-science/",
+                "https://www.udemy.com/course/probability-for-statistics-and-data-science/",
+                "https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/"
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLHXZ9OQGMqxZ7zKtJzIvW0vDQyvq3tZ4x",
+                "https://www.youtube.com/watch?v=SkidyDQuupA&list=PLbYOkEbzW902s-ZkG8p8gFpiQa_iEM0M8",
+                "https://www.youtube.com/watch?v=VQsacGiQu7k&list=PLnd7R4Mcw3rJDOxrwmwyK-EdJl8Tk431H"
+            ],
+            "books": []
+        },
+        "discreteMathematics": {
+            "courses": [
+                "https://www.udemy.com/course/discrete-math/",
+                "https://www.udemy.com/course/master-discrete-mathematics/",
+                "https://www.udemy.com/course/discretemathematics/"
+            ],
+            "books": []
+        },
+        "numericalMethods": {
+            "courses": [
+                "https://www.udemy.com/course/programming-numerical-methods-in-python/",
+                "https://www.udemy.com/course/numerical-methods-in-java/",
+                "https://www.udemy.com/course/merge-learning-matrices-to-numerical-methods-using-excel/"
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=p2b2Vb-cYCs&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3",
+                "https://www.youtube.com/watch?v=A3Ffwsnad0k&list=PLl-gb0E4MII28GykmtuBXNUNoej-vY5Rz"
+            ]
+        },
+        "all": {
+            "web": [
+                {
+                    "url": "https://www.khanacademy.org/"
+                },
+                {
+                    "url": "https://www.mathway.com/"
+                },
+                {
+                    "url": "https://www.mathsisfun.com/"
+                },
+                {
+                    "url": "https://www.mathgoodies.com/"
+                },
+                {
+                    "url": "https://www.math.com/"
+                },
+                {
+                    "url": "https://mathopenref.com/"
+                },
+                {
+                    "url": "https://mathforum.org/"
+                },
+                {
+                    "url": "https://math.stackexchange.com/"
+                },
+                {
+                    "url": "http://calculus.org/"
+                },
+                {
+                    "url": "http://math.stackexchange.com/"
+                },
+                {
+                    "url": "http://mathoverflow.net/"
+                },
+                {
+                    "url": "https://encyclopediaofmath.or"
+                },
+                {
+                    "url": "https://planetmath.org/"
+                },
+                {
+                    "url": "https://proofwiki.org"
+                },
+                {
+                    "url": "https://mathworld.wolfram.com/"
+                },
+                {
+                    "url": "http://mathwords.com/"
+                },
+                {
+                    "url": "https://calculus123.com/"
+                },
+                {
+                    "url": "https://betterexplained.com/"
+                },
+                {
+                    "url": "http://ilovemaths.com/"
+                },
+                {
+                    "url": "https://www.3blue1brown.com/"
+                },
+                {
+                    "url": "https://tutorial.math.lamar.edu/"
+                }
+            ],
+            "softwares": [
+                {
+                    "name": "Wolfram Alpha",
+                    "url": "https://www.wolframalpha.com/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "web",
+                        "desktop"
+                    ],
+                    "pricing": "free"
+                },
+                {
+                    "name": "Mathway",
+                    "url": "https://www.mathway.com/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "web",
+                        "desktop"
+                    ],
+                    "pricing": "free"
+                },
+                {
+                    "name": "Desmos",
+                    "url": "https://www.desmos.com/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "web",
+                        "desktop",
+                        "mobile",
+                        "tablet"
+                    ],
+                    "pricing": "free"
+                },
+                {
+                    "name": "GeoGebra",
+                    "url": "https://www.geogebra.org/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "web",
+                        "desktop"
+                    ],
+                    "pricing": "free"
+                },
+                {
+                    "name": "MathType",
+                    "url": "https://www.mathtype.com/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "desktop"
+                    ],
+                    "pricing": "paid"
+                },
+                {
+                    "name": "Matlab",
+                    "url": "https://www.mathworks.com/products/matlab.html",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "desktop"
+                    ],
+                    "pricing": "paid"
+                },
+                {
+                    "name": "Symbolab",
+                    "url": "https://www.symbolab.com/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "web",
+                        "desktop"
+                    ],
+                    "pricing": "freemium"
+                },
+                {
+                    "name": "Mathpix",
+                    "url": "https://mathpix.com/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "mobile",
+                        "desktop",
+                        "web"
+                    ],
+                    "pricing": "freemium"
+                },
+                {
+                    "name": "Sympy",
+                    "url": "https://www.sympy.org",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "desktop"
+                    ],
+                    "pricing": "free"
+                },
+                {
+                    "name": "Mathematica",
+                    "url": "https://www.wolfram.com/mathematica/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "desktop"
+                    ],
+                    "pricing": "paid"
+                },
+                {
+                    "name": "Segamath",
+                    "url": "https://www.segamath.org/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "web",
+                        "desktop"
+                    ],
+                    "pricing": "free"
+                },
+                {
+                    "name": "Mathigon",
+                    "url": "https://mathigon.org/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "web",
+                        "desktop"
+                    ],
+                    "pricing": "free"
+                },
+                {
+                    "name": "GeoGebra",
+                    "url": "https://www.geogebra.org/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "web",
+                        "desktop"
+                    ],
+                    "pricing": "free"
+                },
+                {
+                    "name": "Singular",
+                    "url": "https://www.singular.uni-kl.de/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "desktop"
+                    ],
+                    "pricing": "free"
+                },
+                {
+                    "name": "GNU Octave",
+                    "url": "https://www.gnu.org/software/octave/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "desktop"
+                    ],
+                    "pricing": "free"
+                },
+                {
+                    "name": "Magma",
+                    "url": "https://magma.maths.usyd.edu.au/magma/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "desktop"
+                    ],
+                    "pricing": "free"
+                },
+                {
+                    "name": "Maplesoft Maple",
+                    "url": "https://www.maplesoft.com/products/maple/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "desktop"
+                    ],
+                    "pricing": "paid"
+                },
+                {
+                    "name": "Free Math",
+                    "url": "https://www.freemathapp.org/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "desktop"
+                    ],
+                    "pricing": "free"
+                },
+                {
+                    "name": "Macaulay2",
+                    "url": "http://www2.macaulay2.com/Macaulay2/",
+                    "os": [
+                        "windows",
+                        "macos",
+                        "linux"
+                    ],
+                    "platforms": [
+                        "desktop"
+                    ],
+                    "pricing": "free"
+                }
+            ],
+            "videos": [
+                "https://www.youtube.com/watch?v=ZK3O402wf1c"
+            ],
+            "youtube": [
+                "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
+                "https://www.youtube.com/user/numberphile",
+                "https://www.youtube.com/user/1veritasium",
+                "https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg",
+                "https://www.youtube.com/c/ProfessorLeonard",
+                "https://www.youtube.com/c/BrandonFoltz"
+            ]
+        }
+    }
+}
