@@ -659,6 +659,10 @@
                                 ],
                                 "generators": [
                                     {
+                                        "name": "CSS 3 Generator",
+                                        "url": "https://css3generator.com/"
+                                    },
+                                    {
                                         "name": "Buttons Generators",
                                         "url": "https://markodenic.com/tools/buttons-generator/"
                                     },
@@ -713,6 +717,34 @@
                                     {
                                         "name": "webcode.tools",
                                         "url": "https://webcode.tools/"
+                                    },
+                                    {
+                                        "name": "ColorZilla",
+                                        "url": "https://www.colorzilla.com/gradient-editor/"
+                                    },
+                                    {
+                                        "name": "CSS Typeset",
+                                        "url": "https://csstypeset.com/"
+                                    },
+                                    {
+                                        "name": "CSS 3 Button Generator",
+                                        "url": "https://css3buttongenerator.com/"
+                                    },
+                                    {
+                                        "name": "Patternify",
+                                        "url": "https://patternify.com/"
+                                    },
+                                    {
+                                        "name": "CSS Matic",
+                                        "url": "https://www.cssmatic.com/"
+                                    },
+                                    {
+                                        "name": "Flexy Boxes",
+                                        "url": "https://the-echoplex.net/flexyboxes/"
+                                    },
+                                    {
+                                        "name": "Wait Animate",
+                                        "url": "https://waitanimate.wstone.uk/"
                                     }
                                 ]
                             },
@@ -2242,7 +2274,33 @@
             "OS": [
                 {
                     "name": "Linux",
-                    "url": "https://www.linux.org/"
+                    "url": "https://www.linux.org/",
+                    "web": [
+                        {
+                            "name": "Linux Handbook",
+                            "url": "https://linuxhandbook.com/"
+                        },
+                        {
+                            "name": "Linux Journey",
+                            "url": "https://linuxjourney.com/"
+                        },
+                        {
+                            "name": "Linux Command Line",
+                            "url": "https://linuxcommand.org/"
+                        },
+                        {
+                            "name": "It's FOSS",
+                            "url": "https://itsfoss.com/"
+                        },
+                        {
+                            "name": "Linuxize",
+                            "url": "https://linuxize.com/"
+                        },
+                        {
+                            "name": "Foss Linux",
+                            "url": "https://fosslinux.com/"
+                        }
+                    ]
                 },
                 {
                     "name": "Windows",
@@ -2699,6 +2757,10 @@
                         {
                             "name": "1001 Free Fonts",
                             "url": "https://www.1001freefonts.com/"
+                        },
+                        {
+                            "name": "Befonts",
+                            "url": "https://befonts.com/"
                         }
                     ]
                 },
@@ -2735,11 +2797,38 @@
                         {
                             "name": "icons8",
                             "url": "https://icons8.com/"
+                        },
+                        {
+                            "name": "Simple Icons",
+                            "url": "https://simpleicons.org/"
+                        },
+                        {
+                            "name": "Streamlinehq Icons",
+                            "url": "https://streamlinehq.com/icons"
+                        },
+                        {
+                            "name": "CSS.gg",
+                            "url": "https://css.gg/"
+                        },
+                        {
+                            "name": "World Vector Logo",
+                            "url": "https://worldvectorlogo.com/"
+                        },
+                        {
+                            "name": "Logoipsum",
+                            "url": "https://logoipsum.com/"
                         }
                     ]
                 },
                 "shadows": {},
-                "avators": {},
+                "avators": {
+                    "web": [
+                        {
+                            "name": "UI Faces",
+                            "url": "https://uifaces.co/"
+                        }
+                    ]
+                },
                 "illustrations": {
                     "web": [
                         {
@@ -2765,6 +2854,42 @@
                         {
                             "name": "Freepik",
                             "url": "https://www.freepik.com/"
+                        },
+                        {
+                            "name": "Muzli",
+                            "url": "https://muz.li/"
+                        },
+                        {
+                            "name": "Fresh-Folk",
+                            "url": "https://fresh-folk.com/"
+                        },
+                        {
+                            "name": "Sapien",
+                            "url": "https://sapiens.ui8.net/6f3c3c2"
+                        },
+                        {
+                            "name": "Open Peeps",
+                            "url": "https://www.openpeeps.com/"
+                        },
+                        {
+                            "name": "Humaaans",
+                            "url": "https://www.humaaans.com/"
+                        },
+                        {
+                            "name": "Streamlinehq Illustrations",
+                            "url": "https://streamlinehq.com/illustrations"
+                        },
+                        {
+                            "name": "Passion Hacks",
+                            "url": "https://passionhacks.com/"
+                        },
+                        {
+                            "name": "ls.graphics",
+                            "url": "https://ls.graphics/illustrations"
+                        },
+                        {
+                            "name": "Drawkit",
+                            "url": "https://www.drawkit.io/"
                         }
                     ]
                 },
@@ -2793,6 +2918,10 @@
                         {
                             "name": "Gratisography",
                             "url": "https://gratisography.com/"
+                        },
+                        {
+                            "name": "Kabooompics",
+                            "url": "https://kaboompics.com/"
                         }
                     ]
                 }
@@ -2870,6 +2999,18 @@
                     {
                         "name": "openby.design",
                         "url": "http://openby.design/"
+                    },
+                    {
+                        "name": "UI Design Daily",
+                        "url": "https://uidesigndaily.com/"
+                    },
+                    {
+                        "name": "UI Freebies",
+                        "url": "https://uifreebies.net/"
+                    },
+                    {
+                        "name": "Freebies UI",
+                        "url": "https://freebiesui.com/"
                     }
                 ]
             },
