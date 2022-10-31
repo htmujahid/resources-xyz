@@ -745,6 +745,10 @@
                                     {
                                         "name": "Wait Animate",
                                         "url": "https://waitanimate.wstone.uk/"
+                                    },
+                                    {
+                                        "name": "Enjoy CSS",
+                                        "url": "https://enjoycss.com/"
                                     }
                                 ]
                             },
@@ -979,9 +983,6 @@
                                 "url": "http://100dayscss.com"
                             },
                             {
-                                "url": "https://www.codewars.com/"
-                            },
-                            {
                                 "url": "https://codier.io/"
                             },
                             {
@@ -994,7 +995,8 @@
                             "https://toolness.github.io/accessible-color-matrix/",
                             "https://achecker.ca/",
                             "https://www.ssa.gov/accessibility/andi/help/install.html",
-                            "https://www.deque.com/axe/"
+                            "https://www.deque.com/axe/",
+                            "https://responsively.app/"
                         ]
                     },
                     "backend": {
@@ -1181,7 +1183,8 @@
                         ],
                         "web": [
                             "https://www.caniuse.com/",
-                            "https://web.dev/"
+                            "https://web.dev/",
+                            "https://www.30secondsofcode.org/"
                         ]
                     }
                 },
@@ -2204,6 +2207,58 @@
                         ]
                     }
                 },
+                "codingCompetitions": {
+                    "platforms": [
+                        {
+                            "name": "codeforces",
+                            "url": "https://codeforces.com/"
+                        },
+                        {
+                            "name": "codechef",
+                            "url": "https://www.codechef.com/"
+                        },
+                        {
+                            "name": "hackerrank",
+                            "url": "https://www.hackerrank.com/"
+                        },
+                        {
+                            "name": "topcoder",
+                            "url": "https://www.topcoder.com/"
+                        },
+                        {
+                            "name": "hackerearth",
+                            "url": "https://www.hackerearth.com/"
+                        },
+                        {
+                            "name": "atcoder",
+                            "url": "https://atcoder.jp/"
+                        },
+                        {
+                            "name": "leetcode",
+                            "url": "https://leetcode.com/"
+                        },
+                        {
+                            "name": "code wars",
+                            "url": "https://www.codewars.com/"
+                        },
+                        {
+                            "name": "Coderbyte",
+                            "url": "https://coderbyte.com/"
+                        },
+                        {
+                            "name": "CodinGame",
+                            "url": "https://www.codingame.com/"
+                        },
+                        {
+                            "name": "Code Forces",
+                            "url": "https://codeforces.com/"
+                        },
+                        {
+                            "name": "Sphere Online Judge",
+                            "url": "https://www.spoj.com/"
+                        }
+                    ]
+                },
                 "all": {
                     "docs": [
                         {
@@ -2539,6 +2594,14 @@
                 {
                     "name": "Pluralsight",
                     "url": "https://www.pluralsight.com/"
+                },
+                {
+                    "name": "The Odin Project",
+                    "url": "https://www.theodinproject.com/"
+                },
+                {
+                    "name": "Code Mentor",
+                    "url": "https://www.codementor.io/"
                 }
             ],
             "youtube": [
@@ -2663,6 +2726,10 @@
                 {
                     "name": "StudyTonight",
                     "url": "https://www.studytonight.com/"
+                },
+                {
+                    "name": "OverAPI",
+                    "url": "https://overapi.com/"
                 }
             ],
             "blogs": [
@@ -2733,6 +2800,18 @@
                         {
                             "name": "ColorSpace",
                             "url": "https://mycolor.space/"
+                        },
+                        {
+                            "name": "Colorion",
+                            "url": "https://colorion.co/"
+                        },
+                        {
+                            "name": "Happy Hues",
+                            "url": "https://www.happyhues.co/"
+                        },
+                        {
+                            "name": "0to255",
+                            "url": "https://www.0to255.com/"
                         }
                     ]
                 },
@@ -2817,6 +2896,10 @@
                         {
                             "name": "Logoipsum",
                             "url": "https://logoipsum.com/"
+                        },
+                        {
+                            "name": "Logo Inspirations",
+                            "url": "https://logoinspirations.co/"
                         }
                     ]
                 },
@@ -3011,6 +3094,26 @@
                     {
                         "name": "Freebies UI",
                         "url": "https://freebiesui.com/"
+                    },
+                    {
+                        "name": "FWA",
+                        "url": "https://thefwa.com/"
+                    },
+                    {
+                        "name": "Collect UI",
+                        "url": "https://collectui.com/"
+                    },
+                    {
+                        "name": "Site Inspire",
+                        "url": "https://www.siteinspire.com/"
+                    },
+                    {
+                        "name": "Design Inspiration",
+                        "url": "https://www.designinspiration.com/"
+                    },
+                    {
+                        "name": "Design Vault",
+                        "url": "https://www.designvault.io/"
                     }
                 ]
             },
