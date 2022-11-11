@@ -758,6 +758,42 @@
                                     "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model",
                                     "https://javascript.info/ui"
                                 ],
+                                "toosl": [
+                                    {
+                                        "name": "Babel",
+                                        "url": "https://babeljs.io/"
+                                    },
+                                    {
+                                        "name": "ESLint",
+                                        "url": "https://eslint.org/"
+                                    },
+                                    {
+                                        "name": "Shave",
+                                        "url": "https://dollarshaveclub.github.io/shave/"
+                                    }
+                                ],
+                                "bundlers": [
+                                    {
+                                        "name": "Parcel",
+                                        "url": "https://parceljs.org/"
+                                    },
+                                    {
+                                        "name": "Webpack",
+                                        "url": "https://webpack.js.org/"
+                                    },
+                                    {
+                                        "name": "Rollup",
+                                        "url": "https://rollupjs.org/guide/en/"
+                                    },
+                                    {
+                                        "name": "Browserify",
+                                        "url": "http://browserify.org/"
+                                    },
+                                    {
+                                        "name": "Snowpack",
+                                        "url": "https://www.snowpack.dev/"
+                                    }
+                                ],
                                 "libraries": [
                                     {
                                         "name": "hammerjs",
@@ -814,7 +850,10 @@
                             {
                                 "name": "React",
                                 "web": "https://reactjs.org/",
-                                "docs": "https://reactjs.org/docs/getting-started.html",
+                                "docs": [
+                                    "https://reactjs.org/docs/getting-started.html",
+                                    "https://react-tutorial.app/"
+                                ],
                                 "UIKits": [
                                     {
                                         "name": "Material UI",
@@ -987,6 +1026,18 @@
                             },
                             {
                                 "url": "https://cssbattle.dev/"
+                            },
+                            {
+                                "url": "https://cssgridgarden.com/"
+                            },
+                            {
+                                "url": "https://mastery.games/"
+                            },
+                            {
+                                "url": "https://flukeout.github.io/"
+                            },
+                            {
+                                "url": "https://flexboxfroggy.com/"
                             }
                         ],
                         "accessiblityTools": [
@@ -1426,50 +1477,67 @@
                     ]
                 },
                 "databases": {
-                    "sql": [
-                        {
-                            "name": "MongoDB",
-                            "web": "https://www.mongodb.com/"
-                        },
-                        {
-                            "name": "Firebase",
-                            "web": "https://firebase.google.com/"
-                        },
-                        {
-                            "name": "Redis",
-                            "web": "https://redis.io/"
+                    "noSql": {
+                        "dbms": [
+                            {
+                                "name": "MongoDB",
+                                "web": "https://www.mongodb.com/"
+                            },
+                            {
+                                "name": "Firebase",
+                                "web": "https://firebase.google.com/"
+                            },
+                            {
+                                "name": "Redis",
+                                "web": "https://redis.io/"
+                            }
+                        ]
+                    },
+                    "sql": {
+                        "dbms": [
+                            {
+                                "name": "MySQL",
+                                "web": "https://www.mysql.com/"
+                            },
+                            {
+                                "name": "PostgreSQL",
+                                "web": "https://www.postgresql.org/"
+                            },
+                            {
+                                "name": "MariaDB",
+                                "web": "https://mariadb.org/"
+                            },
+                            {
+                                "name": "SQLite",
+                                "web": "https://www.sqlite.org/"
+                            },
+                            {
+                                "name": "MSSQL Server",
+                                "web": "https://www.microsoft.com/en-us/sql-server/sql-server-downloads"
+                            },
+                            {
+                                "name": "Oracle",
+                                "web": "https://www.oracle.com/database/"
+                            },
+                            {
+                                "name": "SQLAlchemy",
+                                "web": "https://www.sqlalchemy.org/"
+                            }
+                        ],
+                        "learn": {
+                            "docs": [
+                                "https://www.sql-easy.com/es/"
+                            ],
+                            "courses": [
+                                "https://www.udemy.com/course/learn-sql-in-a-simplified-manner/",
+                                "https://www.udemy.com/course/beginners-introduction-to-sql-and-databases-part-one/",
+                                "https://www.udemy.com/course/fundamentals-of-sql/"
+                            ],
+                            "web": [
+                                "https://www.sqlcourse.com/"
+                            ]
                         }
-                    ],
-                    "noSql": [
-                        {
-                            "name": "MySQL",
-                            "web": "https://www.mysql.com/"
-                        },
-                        {
-                            "name": "PostgreSQL",
-                            "web": "https://www.postgresql.org/"
-                        },
-                        {
-                            "name": "MariaDB",
-                            "web": "https://mariadb.org/"
-                        },
-                        {
-                            "name": "SQLite",
-                            "web": "https://www.sqlite.org/"
-                        },
-                        {
-                            "name": "MSSQL Server",
-                            "web": "https://www.microsoft.com/en-us/sql-server/sql-server-downloads"
-                        },
-                        {
-                            "name": "Oracle",
-                            "web": "https://www.oracle.com/database/"
-                        },
-                        {
-                            "name": "SQLAlchemy",
-                            "web": "https://www.sqlalchemy.org/"
-                        }
-                    ]
+                    }
                 },
                 "testing": [
                     {
@@ -1618,7 +1686,10 @@
                 "developmentEnvironment": [
                     {
                         "name": "git",
-                        "url": "https://git-scm.com/"
+                        "url": "https://git-scm.com/",
+                        "web": [
+                            "https://www.atlassian.com/es/git"
+                        ]
                     },
                     {
                         "name": "docker",
@@ -2065,7 +2136,16 @@
                             "name": "avalanche",
                             "url": "https://www.avax.network/"
                         }
-                    ]
+                    ],
+                    "learn": {
+                        "docs": [
+                            "https://cryptozombies.io/",
+                            "https://learnweb3.io/"
+                        ],
+                        "courses": [
+                            "https://www.udemy.com/course/blockchain-theory-101/"
+                        ]
+                    }
                 },
                 "artificialIntelligence": {
                     "machineLearning": {
@@ -2931,10 +3011,6 @@
                             "url": "https://blush.design/"
                         },
                         {
-                            "name": "DrawKit",
-                            "url": "https://www.drawkit.io/"
-                        },
-                        {
                             "name": "Freepik",
                             "url": "https://www.freepik.com/"
                         },
@@ -2955,10 +3031,6 @@
                             "url": "https://www.openpeeps.com/"
                         },
                         {
-                            "name": "Humaaans",
-                            "url": "https://www.humaaans.com/"
-                        },
-                        {
                             "name": "Streamlinehq Illustrations",
                             "url": "https://streamlinehq.com/illustrations"
                         },
@@ -2972,7 +3044,27 @@
                         },
                         {
                             "name": "Drawkit",
-                            "url": "https://www.drawkit.io/"
+                            "url": "https://www.drawkit.com/"
+                        },
+                        {
+                            "name": "Skribbl",
+                            "url": "https://skribbl.com/"
+                        },
+                        {
+                            "name": "Deszone",
+                            "url": "https://deszone.net/"
+                        },
+                        {
+                            "name": "Vecteezy",
+                            "url": "https://www.vecteezy.com/"
+                        },
+                        {
+                            "name": "Many Pixels",
+                            "url": "https://www.manypixels.co/gallery/"
+                        },
+                        {
+                            "name": "Absurd Design",
+                            "url": "https://absurd.design/"
                         }
                     ]
                 },
@@ -3052,10 +3144,6 @@
                         "url": "https://land-book.com/"
                     },
                     {
-                        "name": "lapa",
-                        "url": "https://www.lapa.ninja/"
-                    },
-                    {
                         "name": "awwwardas",
                         "url": "https://www.awwwards.com/"
                     },
@@ -3114,6 +3202,18 @@
                     {
                         "name": "Design Vault",
                         "url": "https://www.designvault.io/"
+                    },
+                    {
+                        "name": "Lapa Ninja",
+                        "url": "https://www.lapa.ninja/"
+                    },
+                    {
+                        "name": "Landing Love",
+                        "url": "https://landing.love/"
+                    },
+                    {
+                        "name": "Ujjar",
+                        "url": "https://ujjar.com/"
                     }
                 ]
             },
@@ -3142,6 +3242,18 @@
                     {
                         "name": "Wireflow",
                         "url": "https://wireflow.co/"
+                    },
+                    {
+                        "name": "untools",
+                        "url": "https://untools.co/"
+                    },
+                    {
+                        "name": "UX Archive",
+                        "url": "https://uxarchive.com/"
+                    },
+                    {
+                        "name": "Dark Mode Design",
+                        "url": "https://darkmodedesign.com/"
                     }
                 ],
                 "wireframes": [
@@ -3219,9 +3331,7 @@
                 "https://www.dribbble.com/",
                 "https://www.behance.net/",
                 "https://www.awwwards.com/",
-                "https://www.lapa.ninja/",
-                "https://www.uistore.design/",
-                "https://www.lapa.ninja/"
+                "https://www.uistore.design/"
             ],
             "courses": [
                 "https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/",
